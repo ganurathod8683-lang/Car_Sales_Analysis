@@ -1,0 +1,501 @@
+Sale_ID,Sale_Date,Brand,Model,Segment,Fuel_Type,Transmission,Color,Car_Year,City,State,Units_Sold,Unit_Price_INR,Discount_Pct,Sales_Amount_INR,Cost_INR,Profit_INR,Profit_Margin_Pct,Customer_Age,Customer_Gender,Payment_Mode,Salesperson
+CAR0001,07-10-2025,Honda,Civic,Sedan,Petrol,Automatic,White,2023,Chennai,Tamil Nadu,1,2102570,9.4,1904928,1653422,251506,13.2,27,Male,Cash,Karan Shah
+CAR0002,18-08-2025,MG,Hector,SUV,CNG,Manual,Black,2025,Bhubaneswar,Odisha,1,2069126,9,1882905,1571355,311550,16.55,49,Female,Loan,Rahul Verma
+CAR0003,16-05-2025,Maruti,Brezza,SUV,Petrol,Automatic,Blue,2023,Delhi,Delhi,1,1029828,5.6,972158,801753,170405,17.53,46,Male,Finance,Vikram Singh
+CAR0004,29-05-2025,MG,ZS EV,SUV,Electric,Manual,Black,2023,Indore,Madhya Pradesh,1,2478556,2.5,2416592,1956538,460054,19.04,46,Female,Loan,Ananya Desai
+CAR0005,06-02-2025,Hyundai,Venue,SUV,Diesel,Manual,Black,2024,Kochi,Kerala,1,1027228,9,934777,812191,122586,13.11,46,Female,Finance,Karan Shah
+CAR0006,03-02-2025,Maruti,Brezza,SUV,Diesel,Automatic,Black,2025,Pune,Maharashtra,1,1104063,10.1,992553,825954,166599,16.78,53,Female,Finance,Neha Mehta
+CAR0007,08-08-2025,Hyundai,Venue,SUV,Hybrid,Automatic,Black,2023,Gurgaon,Haryana,1,1039198,7.4,962297,844042,118255,12.29,54,Female,Cash,Aarav Sharma
+CAR0008,28-08-2025,Honda,City,Sedan,CNG,Manual,Grey,2025,Noida,Uttar Pradesh,3,1283809,2.6,3751290,3112110,639180,17.04,29,Female,Finance,Ananya Desai
+CAR0009,15-05-2025,Honda,CR-V,SUV,Diesel,Manual,Grey,2024,Surat,Gujarat,1,3474085,11.5,3074565,2748233,326332,10.61,62,Male,Cash,Ananya Desai
+CAR0010,07-06-2025,Hyundai,Creta,SUV,Diesel,Manual,Black,2025,Bhopal,Madhya Pradesh,1,1497265,3.1,1450850,1200125,250725,17.28,27,Male,Finance,Neha Mehta
+CAR0011,07-11-2025,Honda,City,Sedan,Hybrid,Manual,Blue,2025,Gurgaon,Haryana,3,1294859,7.5,3593234,2926536,666698,18.55,34,Female,Loan,Ananya Desai
+CAR0012,28-04-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,White,2025,Delhi,Delhi,1,860356,5.4,813897,697087,116810,14.35,62,Male,Cash,Priya Patil
+CAR0013,09-03-2025,Toyota,RAV4,SUV,Hybrid,Manual,Red,2024,Nagpur,Maharashtra,2,3640707,8.7,6647931,5370536,1277395,19.21,34,Male,Cash,Rohan Kulkarni
+CAR0014,27-11-2025,Mahindra,XUV300,SUV,Petrol,Manual,Red,2025,Surat,Gujarat,2,1269857,2.5,2476221,2141805,334416,13.51,43,Male,Cash,Sneha Joshi
+CAR0015,08-02-2025,Maruti,Grand Vitara,SUV,Hybrid,Manual,White,2025,Gurgaon,Haryana,2,1424037,6.6,2660101,2377288,282813,10.63,56,Male,Cash,Sneha Joshi
+CAR0016,14-07-2025,Hyundai,Tucson,SUV,Petrol,Automatic,Silver,2024,Lucknow,Uttar Pradesh,2,2767179,6,5202297,4097447,1104850,21.24,40,Female,Finance,Karan Shah
+CAR0017,01-02-2025,Volkswagen,Taigun,SUV,CNG,Manual,White,2025,Bengaluru,Karnataka,1,1527731,2.6,1488010,1302970,185040,12.44,52,Male,Cash,Karan Shah
+CAR0018,19-10-2025,Honda,City,Sedan,Diesel,Manual,Blue,2023,Nagpur,Maharashtra,2,1210136,10.6,2163723,1801280,362443,16.75,48,Female,Loan,Sneha Joshi
+CAR0019,07-02-2025,Mahindra,XUV700,SUV,Petrol,Automatic,Blue,2025,Chennai,Tamil Nadu,2,2070069,8.5,3788226,3179985,608241,16.06,28,Male,Finance,Sneha Joshi
+CAR0020,22-03-2025,Skoda,Kodiaq,Luxury,Hybrid,Automatic,Blue,2025,Gurgaon,Haryana,1,4455941,10.8,3974699,3291204,683495,17.2,55,Male,Finance,Karan Shah
+CAR0021,20-05-2025,Tata,Nexon,SUV,CNG,Manual,Grey,2024,Gurgaon,Haryana,1,938469,3.1,909376,774715,134661,14.81,35,Female,Finance,Neha Mehta
+CAR0022,08-03-2025,Tata,Nexon,SUV,CNG,Manual,Grey,2024,Nagpur,Maharashtra,3,987772,4.8,2821077,2201740,619337,21.95,57,Female,Finance,Aarav Sharma
+CAR0023,09-08-2025,Honda,Civic,Sedan,Diesel,Manual,Silver,2024,Gurgaon,Haryana,2,2036682,5.7,3841182,3272027,569155,14.82,24,Female,Cash,Sneha Joshi
+CAR0024,02-05-2025,Honda,CR-V,SUV,Diesel,Manual,Red,2023,Bhubaneswar,Odisha,2,3765349,9.5,6815282,6136134,679148,9.97,33,Female,Loan,Sneha Joshi
+CAR0025,24-08-2025,Tata,Harrier,SUV,CNG,Automatic,Black,2023,Delhi,Delhi,2,2013139,10.6,3599493,2911689,687804,19.11,23,Male,Loan,Ananya Desai
+CAR0026,02-10-2025,Tata,Nexon,SUV,CNG,Manual,White,2024,Chennai,Tamil Nadu,1,1022637,6,961279,872408,88871,9.25,33,Female,Cash,Priya Patil
+CAR0027,01-03-2025,MG,Gloster,Luxury,Hybrid,Manual,Silver,2023,Kochi,Kerala,3,4392480,6.4,12334084,11198740,1135344,9.2,49,Male,Finance,Karan Shah
+CAR0028,06-12-2025,Maruti,Brezza,SUV,Petrol,Automatic,Blue,2024,Surat,Gujarat,1,1125411,11.2,999365,860463,138902,13.9,48,Female,Loan,Vikram Singh
+CAR0029,31-03-2025,Skoda,Kushaq,SUV,CNG,Automatic,Blue,2023,Bengaluru,Karnataka,2,1642222,5.8,3093946,2714187,379759,12.27,41,Female,Cash,Rohan Kulkarni
+CAR0030,28-03-2025,MG,ZS EV,SUV,Electric,Manual,Silver,2025,Jaipur,Rajasthan,2,2377789,4.1,4560599,3837809,722790,15.85,62,Female,Cash,Sneha Joshi
+CAR0031,07-02-2025,Tata,Harrier,SUV,Hybrid,Automatic,Grey,2025,Bengaluru,Karnataka,1,1755425,4.4,1678186,1412643,265543,15.82,34,Female,Loan,Rohan Kulkarni
+CAR0032,23-12-2025,Maruti,Baleno,Hatchback,Hybrid,Manual,Blue,2023,Mumbai,Maharashtra,1,835638,4.2,800541,708106,92435,11.55,29,Female,Cash,Neha Mehta
+CAR0033,08-10-2025,Skoda,Kodiaq,Luxury,Hybrid,Manual,Grey,2024,Jaipur,Rajasthan,2,4411684,10.9,7861621,6568198,1293423,16.45,50,Female,Cash,Vikram Singh
+CAR0034,21-06-2025,Skoda,Superb,Luxury,CNG,Manual,Black,2023,Mysuru,Karnataka,1,3763443,9.1,3420970,2772642,648328,18.95,36,Female,Finance,Rahul Verma
+CAR0035,04-08-2025,Maruti,Swift,Hatchback,Hybrid,Manual,Blue,2024,Surat,Gujarat,2,700518,6.7,1307167,1030171,276996,21.19,52,Male,Loan,Vikram Singh
+CAR0036,07-09-2025,Kia,EV6,Luxury,Electric,Manual,Silver,2024,Bhubaneswar,Odisha,3,6432757,10,17368444,15574553,1793891,10.33,53,Male,Loan,Ananya Desai
+CAR0037,31-10-2025,Kia,Sonet,SUV,Petrol,Manual,Grey,2024,Jaipur,Rajasthan,1,1184607,7.3,1098131,986013,112118,10.21,30,Female,Cash,Aarav Sharma
+CAR0038,23-05-2025,Tata,Safari,SUV,Hybrid,Automatic,White,2024,Hyderabad,Telangana,1,2382605,5.4,2253944,2015822,238122,10.56,23,Male,Loan,Sneha Joshi
+CAR0039,06-03-2025,Honda,Civic,Sedan,Hybrid,Manual,Blue,2023,Mumbai,Maharashtra,1,2094175,2.2,2048103,1638093,410010,20.02,51,Female,Loan,Rahul Verma
+CAR0040,13-12-2025,MG,Hector,SUV,Hybrid,Automatic,Grey,2023,Noida,Uttar Pradesh,1,1874592,2.3,1831476,1502826,328650,17.94,26,Male,Cash,Vikram Singh
+CAR0041,17-09-2025,MG,Hector,SUV,CNG,Manual,Red,2024,Indore,Madhya Pradesh,1,1951105,6.3,1828185,1514056,314129,17.18,28,Female,Loan,Neha Mehta
+CAR0042,03-10-2025,Hyundai,Tucson,SUV,Hybrid,Automatic,Red,2025,Noida,Uttar Pradesh,3,2910090,8.5,7988197,6870397,1117800,13.99,59,Female,Loan,Sneha Joshi
+CAR0043,22-06-2025,Honda,CR-V,SUV,Petrol,Automatic,Silver,2023,Jaipur,Rajasthan,1,3640267,7.7,3359966,2912635,447331,13.31,53,Male,Loan,Vikram Singh
+CAR0044,08-04-2025,Mahindra,Scorpio,SUV,Petrol,Manual,Grey,2024,Bhopal,Madhya Pradesh,3,2121634,7.6,5881169,4982300,898869,15.28,53,Male,Finance,Neha Mehta
+CAR0045,06-12-2025,Volkswagen,Polo,Hatchback,CNG,Automatic,Blue,2025,Mumbai,Maharashtra,1,870370,6,818148,664033,154115,18.84,44,Female,Finance,Karan Shah
+CAR0046,11-06-2025,Mahindra,Scorpio,SUV,Petrol,Manual,Black,2023,Jaipur,Rajasthan,1,1938119,4.3,1854780,1620645,234135,12.62,52,Female,Finance,Pooja Nair
+CAR0047,29-12-2025,Skoda,Kodiaq,Luxury,Diesel,Automatic,White,2023,Delhi,Delhi,1,4063078,5.6,3835546,3142443,693103,18.07,57,Female,Finance,Rahul Verma
+CAR0048,27-01-2025,Volkswagen,Virtus,Sedan,CNG,Automatic,White,2023,Mumbai,Maharashtra,2,1448241,6.8,2699521,2225193,474328,17.57,47,Female,Cash,Pooja Nair
+CAR0049,13-10-2025,Toyota,Corolla,Sedan,Hybrid,Manual,Blue,2024,Gurgaon,Haryana,2,2358092,2.9,4579415,3719698,859717,18.77,50,Female,Loan,Pooja Nair
+CAR0050,17-04-2025,Kia,Carens,MUV,Diesel,Automatic,Grey,2023,Indore,Madhya Pradesh,2,1394455,11.6,2465396,1954813,510583,20.71,32,Male,Cash,Karan Shah
+CAR0051,29-04-2025,Honda,City,Sedan,CNG,Automatic,Grey,2024,Mumbai,Maharashtra,2,1289705,7.9,2375637,1942947,432690,18.21,26,Male,Loan,Pooja Nair
+CAR0052,14-03-2025,Maruti,Grand Vitara,SUV,Petrol,Manual,Black,2024,Delhi,Delhi,2,1433954,3.5,2767531,2254243,513288,18.55,60,Female,Loan,Priya Patil
+CAR0053,21-01-2025,Volkswagen,Tiguan,SUV,Hybrid,Automatic,Blue,2024,Ahmedabad,Gujarat,1,3500264,6.9,3258746,2575900,682846,20.95,23,Male,Cash,Pooja Nair
+CAR0054,30-11-2025,MG,Hector,SUV,Hybrid,Automatic,Black,2025,Chennai,Tamil Nadu,2,1852874,9.6,3349996,2817900,532096,15.88,49,Female,Cash,Neha Mehta
+CAR0055,22-12-2025,Mahindra,XUV300,SUV,Hybrid,Automatic,Grey,2024,Hyderabad,Telangana,1,1232666,10.6,1102003,906810,195193,17.71,57,Male,Loan,Priya Patil
+CAR0056,01-01-2025,Mahindra,Scorpio,SUV,Hybrid,Automatic,White,2023,Hyderabad,Telangana,1,2150459,6,2021431,1711945,309486,15.31,55,Female,Finance,Neha Mehta
+CAR0057,24-12-2025,Volkswagen,Virtus,Sedan,Hybrid,Manual,White,2025,Bengaluru,Karnataka,1,1511813,11.3,1340978,1122338,218640,16.3,60,Male,Finance,Rahul Verma
+CAR0058,25-08-2025,Tata,Nexon,SUV,Petrol,Manual,Red,2025,Bhubaneswar,Odisha,2,934913,11.9,1647317,1480412,166905,10.13,40,Female,Loan,Neha Mehta
+CAR0059,11-03-2025,Volkswagen,Taigun,SUV,Petrol,Automatic,Red,2024,Jaipur,Rajasthan,2,1509028,3.9,2900352,2488267,412085,14.21,54,Female,Cash,Vikram Singh
+CAR0060,06-10-2025,Tata,Safari,SUV,Hybrid,Automatic,Silver,2023,Gurgaon,Haryana,2,2414815,5.5,4564000,3887384,676616,14.83,37,Female,Cash,Rohan Kulkarni
+CAR0061,30-11-2025,Toyota,RAV4,SUV,Diesel,Automatic,White,2023,Lucknow,Uttar Pradesh,3,4051366,5.8,11449160,10401491,1047669,9.15,54,Female,Cash,Neha Mehta
+CAR0062,08-02-2025,Honda,Accord,Sedan,Hybrid,Automatic,Silver,2025,Mumbai,Maharashtra,3,4243792,10.7,11369119,10301495,1067624,9.39,47,Male,Loan,Karan Shah
+CAR0063,28-05-2025,Kia,Carens,MUV,Diesel,Manual,Red,2023,Lucknow,Uttar Pradesh,2,1388616,2.7,2702247,2329475,372772,13.79,62,Male,Loan,Rahul Verma
+CAR0064,16-03-2025,Tata,Nexon,SUV,Diesel,Automatic,Blue,2025,Pune,Maharashtra,1,1047383,4.9,996061,825465,170596,17.13,33,Male,Cash,Priya Patil
+CAR0065,25-08-2025,MG,Gloster,Luxury,CNG,Automatic,Silver,2025,Bhopal,Madhya Pradesh,3,4025838,11.1,10736910,8574553,2162357,20.14,22,Female,Loan,Karan Shah
+CAR0066,20-12-2025,Hyundai,Creta,SUV,CNG,Automatic,Silver,2023,Jaipur,Rajasthan,1,1617036,5,1536184,1390344,145840,9.49,46,Female,Cash,Sneha Joshi
+CAR0067,04-12-2025,Kia,Carens,MUV,Hybrid,Automatic,White,2025,Indore,Madhya Pradesh,1,1618246,5,1537334,1394566,142768,9.29,25,Female,Loan,Sneha Joshi
+CAR0068,04-12-2025,MG,ZS EV,SUV,Electric,Manual,Grey,2023,Mysuru,Karnataka,3,2281011,4.5,6535097,5739286,795811,12.18,62,Male,Loan,Neha Mehta
+CAR0069,13-04-2025,Toyota,RAV4,SUV,Diesel,Automatic,Blue,2025,Gurgaon,Haryana,1,4049054,5.3,3834454,3197994,636460,16.6,39,Male,Loan,Neha Mehta
+CAR0070,13-12-2025,Tata,Punch,SUV,Hybrid,Automatic,White,2024,Delhi,Delhi,2,912953,3.4,1763825,1597399,166426,9.44,22,Female,Finance,Priya Patil
+CAR0071,12-12-2025,Volkswagen,Tiguan,SUV,Diesel,Automatic,White,2025,Chennai,Tamil Nadu,2,3433374,8.4,6289941,5209905,1080036,17.17,57,Female,Finance,Sneha Joshi
+CAR0072,05-06-2025,Honda,Accord,Sedan,Hybrid,Manual,White,2023,Coimbatore,Tamil Nadu,3,4433973,3.4,12849654,11603417,1246237,9.7,56,Male,Loan,Neha Mehta
+CAR0073,08-09-2025,Mahindra,XUV300,SUV,Hybrid,Automatic,White,2025,Indore,Madhya Pradesh,3,1243507,10.9,3323894,2875633,448261,13.49,45,Male,Loan,Neha Mehta
+CAR0074,01-02-2025,Maruti,Brezza,SUV,Hybrid,Automatic,Black,2023,Delhi,Delhi,3,1027712,11,2743991,2370335,373656,13.62,51,Male,Finance,Sneha Joshi
+CAR0075,05-02-2025,MG,Hector,SUV,Diesel,Manual,Black,2024,Pune,Maharashtra,1,1917942,3.3,1854650,1582749,271901,14.66,31,Male,Loan,Rahul Verma
+CAR0076,02-05-2025,Hyundai,Venue,SUV,CNG,Manual,Black,2024,Noida,Uttar Pradesh,1,1025769,2.3,1002176,783633,218543,21.81,25,Male,Finance,Rohan Kulkarni
+CAR0077,20-08-2025,Skoda,Slavia,Sedan,Diesel,Manual,Grey,2025,Nagpur,Maharashtra,2,1487586,5.6,2808562,2407434,401128,14.28,55,Female,Loan,Aarav Sharma
+CAR0078,07-02-2025,Toyota,Fortuner,SUV,Petrol,Automatic,Blue,2023,Ahmedabad,Gujarat,2,4325058,6.9,8053258,7233928,819330,10.17,26,Male,Loan,Pooja Nair
+CAR0079,20-02-2025,MG,ZS EV,SUV,Electric,Manual,Grey,2025,Ahmedabad,Gujarat,2,2411734,6.5,4509943,3872713,637230,14.13,57,Male,Loan,Neha Mehta
+CAR0080,10-06-2025,Maruti,Grand Vitara,SUV,CNG,Automatic,Black,2025,Hyderabad,Telangana,2,1475695,9.3,2676911,2196757,480154,17.94,52,Male,Cash,Priya Patil
+CAR0081,28-10-2025,Honda,Accord,Sedan,CNG,Manual,Red,2024,Delhi,Delhi,3,4671933,10.1,12600203,10739508,1860695,14.77,49,Male,Loan,Pooja Nair
+CAR0082,25-02-2025,Tata,Punch,SUV,CNG,Automatic,White,2024,Delhi,Delhi,2,851008,3.5,1642445,1384063,258382,15.73,58,Male,Loan,Karan Shah
+CAR0083,26-12-2025,MG,Hector,SUV,CNG,Automatic,Silver,2023,Bhopal,Madhya Pradesh,3,2105427,4.7,6019416,4836324,1183092,19.65,33,Male,Finance,Rohan Kulkarni
+CAR0084,24-06-2025,Honda,City,Sedan,Diesel,Automatic,Silver,2025,Mumbai,Maharashtra,1,1351191,4.2,1294441,1080312,214129,16.54,42,Male,Cash,Rahul Verma
+CAR0085,01-08-2025,Hyundai,Creta,SUV,CNG,Manual,Blue,2023,Nagpur,Maharashtra,1,1486347,6.2,1394193,1197500,196693,14.11,44,Female,Cash,Vikram Singh
+CAR0086,29-01-2025,MG,Gloster,Luxury,Petrol,Manual,Silver,2023,Kolkata,West Bengal,3,4071258,4.2,11700795,10624064,1076731,9.2,30,Female,Loan,Ananya Desai
+CAR0087,28-04-2025,Honda,Civic,Sedan,CNG,Manual,Red,2025,Lucknow,Uttar Pradesh,3,2175591,3.3,6311389,5359857,951532,15.08,24,Female,Cash,Neha Mehta
+CAR0088,28-02-2025,Honda,CR-V,SUV,Hybrid,Manual,Silver,2023,Indore,Madhya Pradesh,2,3541104,9.1,6437727,5370997,1066730,16.57,61,Female,Finance,Ananya Desai
+CAR0089,08-06-2025,Honda,Accord,Sedan,CNG,Manual,Silver,2023,Delhi,Delhi,1,4453687,6,4186466,3308246,878220,20.98,26,Male,Finance,Karan Shah
+CAR0090,22-02-2025,Maruti,Brezza,SUV,Diesel,Automatic,Black,2023,Kochi,Kerala,3,1126982,8.5,3093566,2472377,621189,20.08,60,Male,Finance,Priya Patil
+CAR0091,17-10-2025,Hyundai,Tucson,SUV,CNG,Automatic,Black,2024,Jaipur,Rajasthan,2,3020583,6.5,5648490,5084432,564058,9.99,26,Female,Loan,Vikram Singh
+CAR0092,08-07-2025,Tata,Nexon,SUV,CNG,Manual,Grey,2023,Kochi,Kerala,2,931871,6.6,1740735,1366284,374451,21.51,61,Female,Loan,Pooja Nair
+CAR0093,19-03-2025,Skoda,Slavia,Sedan,Petrol,Automatic,White,2024,Jaipur,Rajasthan,2,1536441,5.2,2913092,2452333,460759,15.82,27,Male,Cash,Sneha Joshi
+CAR0094,18-07-2025,Volkswagen,Polo,Hatchback,Hybrid,Automatic,Grey,2025,Kolkata,West Bengal,2,915812,5.6,1729053,1554992,174061,10.07,25,Female,Cash,Ananya Desai
+CAR0095,18-03-2025,Honda,Accord,Sedan,CNG,Manual,Blue,2025,Coimbatore,Tamil Nadu,1,4661088,8.6,4260234,3824943,435291,10.22,31,Female,Loan,Rohan Kulkarni
+CAR0096,10-12-2025,Hyundai,Creta,SUV,Petrol,Automatic,Blue,2024,Coimbatore,Tamil Nadu,2,1470403,9.9,2649666,2346846,302820,11.43,23,Female,Loan,Rahul Verma
+CAR0097,21-02-2025,Maruti,Brezza,SUV,Petrol,Automatic,Blue,2023,Lucknow,Uttar Pradesh,1,1004059,3.4,969921,766268,203653,21,60,Female,Cash,Rahul Verma
+CAR0098,16-08-2025,Hyundai,Verna,Sedan,CNG,Automatic,Black,2025,Jaipur,Rajasthan,1,1281459,8.8,1168691,947667,221024,18.91,37,Female,Loan,Sneha Joshi
+CAR0099,24-03-2025,Mahindra,XUV300,SUV,Diesel,Manual,Silver,2023,Jaipur,Rajasthan,1,1253400,7,1165662,972659,193003,16.56,52,Female,Finance,Priya Patil
+CAR0100,17-03-2025,Skoda,Slavia,Sedan,Hybrid,Manual,Black,2024,Coimbatore,Tamil Nadu,1,1563148,4.7,1489680,1337271,152409,10.23,44,Male,Loan,Aarav Sharma
+CAR0101,20-02-2025,Kia,Carens,MUV,CNG,Manual,Black,2023,Mysuru,Karnataka,2,1618686,5.7,3052842,2392404,660438,21.63,40,Female,Finance,Rahul Verma
+CAR0102,18-03-2025,Volkswagen,Polo,Hatchback,Hybrid,Manual,Silver,2023,Bhopal,Madhya Pradesh,1,958443,2.2,937357,757417,179940,19.2,41,Male,Cash,Sneha Joshi
+CAR0103,20-11-2025,Kia,EV6,Luxury,Electric,Manual,Grey,2023,Nagpur,Maharashtra,1,6533994,7,6076614,5163220,913394,15.03,40,Female,Cash,Pooja Nair
+CAR0104,04-07-2025,Mahindra,XUV700,SUV,Petrol,Manual,Red,2024,Indore,Madhya Pradesh,2,2089934,8.7,3816219,3236356,579863,15.19,24,Female,Loan,Vikram Singh
+CAR0105,25-10-2025,Toyota,RAV4,SUV,CNG,Manual,White,2024,Nagpur,Maharashtra,1,3642605,8.6,3329341,2641753,687588,20.65,56,Female,Finance,Rahul Verma
+CAR0106,31-05-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,Black,2023,Noida,Uttar Pradesh,1,837086,9.8,755052,633865,121187,16.05,42,Female,Finance,Rohan Kulkarni
+CAR0107,25-01-2025,Skoda,Superb,Luxury,CNG,Automatic,White,2024,Chennai,Tamil Nadu,1,3954001,3.9,3799795,3140176,659619,17.36,49,Female,Finance,Neha Mehta
+CAR0108,17-05-2025,Kia,Carens,MUV,Petrol,Automatic,White,2024,Noida,Uttar Pradesh,2,1546096,5.7,2915937,2576661,339276,11.64,60,Male,Finance,Vikram Singh
+CAR0109,07-08-2025,Mahindra,Thar,SUV,Diesel,Automatic,Silver,2024,Nagpur,Maharashtra,1,1641195,5.1,1557494,1336861,220633,14.17,24,Female,Finance,Rohan Kulkarni
+CAR0110,14-12-2025,Tata,Nexon,SUV,Diesel,Manual,Black,2025,Nagpur,Maharashtra,3,1022002,5.6,2894310,2558982,335328,11.59,50,Male,Cash,Priya Patil
+CAR0111,19-08-2025,Maruti,Brezza,SUV,CNG,Automatic,Red,2023,Kochi,Kerala,2,1125510,2.3,2199247,1759281,439966,20.01,58,Male,Finance,Ananya Desai
+CAR0112,23-09-2025,Kia,Carens,MUV,Hybrid,Manual,Silver,2024,Chennai,Tamil Nadu,1,1610525,2.3,1573483,1265373,308110,19.58,50,Male,Finance,Vikram Singh
+CAR0113,16-08-2025,Volkswagen,Taigun,SUV,Petrol,Automatic,Grey,2024,Delhi,Delhi,1,1690324,6.5,1580453,1417395,163058,10.32,26,Female,Loan,Rahul Verma
+CAR0114,10-09-2025,Hyundai,Venue,SUV,Petrol,Automatic,Blue,2025,Kolkata,West Bengal,1,939418,4,901841,719718,182123,20.19,45,Female,Finance,Rahul Verma
+CAR0115,30-07-2025,MG,Hector,SUV,Hybrid,Manual,Black,2024,Nagpur,Maharashtra,1,1967411,9.2,1786409,1504561,281848,15.78,26,Female,Loan,Karan Shah
+CAR0116,15-09-2025,Mahindra,XUV700,SUV,Petrol,Manual,Blue,2023,Bhubaneswar,Odisha,3,2230901,9.7,6043511,4815314,1228197,20.32,41,Male,Cash,Ananya Desai
+CAR0117,10-10-2025,Maruti,Brezza,SUV,CNG,Manual,Grey,2024,Kolkata,West Bengal,1,1108117,4.5,1058252,912803,145449,13.74,61,Male,Finance,Rahul Verma
+CAR0118,16-10-2025,MG,Astor,SUV,Petrol,Manual,White,2023,Noida,Uttar Pradesh,3,1733858,11,4629401,3814120,815281,17.61,58,Female,Finance,Sneha Joshi
+CAR0119,25-11-2025,MG,Gloster,Luxury,CNG,Automatic,Black,2025,Bhopal,Madhya Pradesh,3,3884352,10.9,10382873,8835047,1547826,14.91,47,Female,Loan,Priya Patil
+CAR0120,10-06-2025,Toyota,Corolla,Sedan,CNG,Automatic,Red,2023,Jaipur,Rajasthan,2,2194456,4,4213356,3618708,594648,14.11,45,Male,Loan,Sneha Joshi
+CAR0121,16-07-2025,Volkswagen,Virtus,Sedan,Hybrid,Manual,Black,2024,Chennai,Tamil Nadu,2,1439501,3,2792632,2283612,509020,18.23,58,Female,Cash,Rahul Verma
+CAR0122,23-08-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,Blue,2024,Lucknow,Uttar Pradesh,1,899621,2.9,873532,726011,147521,16.89,25,Male,Loan,Neha Mehta
+CAR0123,16-05-2025,MG,Gloster,Luxury,CNG,Automatic,Silver,2023,Coimbatore,Tamil Nadu,2,3869495,3.1,7499081,5979854,1519227,20.26,47,Male,Finance,Karan Shah
+CAR0124,24-05-2025,Maruti,Brezza,SUV,Petrol,Manual,White,2024,Bhubaneswar,Odisha,1,978353,7,909868,800113,109755,12.06,45,Female,Finance,Ananya Desai
+CAR0125,20-06-2025,Hyundai,Verna,Sedan,Hybrid,Automatic,Black,2025,Bhopal,Madhya Pradesh,2,1279489,2.4,2497563,1960734,536829,21.49,54,Male,Loan,Pooja Nair
+CAR0126,18-09-2025,Mahindra,XUV700,SUV,Hybrid,Automatic,Red,2023,Ahmedabad,Gujarat,2,2284240,5,4340056,3575028,765028,17.63,45,Female,Finance,Priya Patil
+CAR0127,24-10-2025,Kia,Carens,MUV,Diesel,Manual,Blue,2024,Mumbai,Maharashtra,2,1493902,11.7,2638231,2326333,311898,11.82,32,Female,Cash,Sneha Joshi
+CAR0128,15-04-2025,Toyota,Camry,Luxury,Hybrid,Automatic,Grey,2025,Bengaluru,Karnataka,1,4754718,6.2,4459925,3718172,741753,16.63,25,Male,Finance,Sneha Joshi
+CAR0129,30-09-2025,Skoda,Kodiaq,Luxury,CNG,Automatic,Grey,2025,Lucknow,Uttar Pradesh,2,4117226,11.6,7279256,6112801,1166455,16.02,38,Female,Cash,Sneha Joshi
+CAR0130,08-09-2025,Tata,Punch,SUV,CNG,Automatic,Silver,2025,Mysuru,Karnataka,1,886880,9,807061,701926,105135,13.03,39,Female,Cash,Pooja Nair
+CAR0131,28-05-2025,Skoda,Superb,Luxury,Petrol,Automatic,Red,2025,Ahmedabad,Gujarat,1,4076402,10,3668762,3000163,668599,18.22,38,Female,Cash,Sneha Joshi
+CAR0132,03-05-2025,Skoda,Kodiaq,Luxury,Diesel,Manual,Grey,2025,Bhubaneswar,Odisha,3,4046530,3.1,11763263,10308334,1454929,12.37,36,Male,Cash,Priya Patil
+CAR0133,22-03-2025,Kia,Carens,MUV,Hybrid,Automatic,Red,2025,Lucknow,Uttar Pradesh,1,1543486,3.4,1491007,1349939,141068,9.46,34,Female,Loan,Vikram Singh
+CAR0134,31-03-2025,Toyota,Camry,Luxury,Hybrid,Manual,White,2024,Indore,Madhya Pradesh,1,4826997,9.2,4382913,3952366,430547,9.82,53,Male,Finance,Vikram Singh
+CAR0135,21-08-2025,Toyota,Camry,Luxury,Hybrid,Manual,Blue,2024,Coimbatore,Tamil Nadu,2,4878937,11.3,8655234,7128065,1527169,17.64,39,Male,Cash,Ananya Desai
+CAR0136,18-10-2025,Hyundai,Tucson,SUV,Diesel,Manual,Blue,2025,Chennai,Tamil Nadu,3,2754396,9.4,7486448,6609035,877413,11.72,47,Female,Finance,Ananya Desai
+CAR0137,04-01-2025,Honda,Accord,Sedan,CNG,Automatic,Black,2024,Delhi,Delhi,1,4846813,6.8,4517230,4072993,444237,9.83,39,Female,Loan,Pooja Nair
+CAR0138,27-08-2025,MG,Hector,SUV,CNG,Manual,Red,2025,Chennai,Tamil Nadu,3,1955057,4.4,5607103,4860305,746798,13.32,54,Female,Finance,Priya Patil
+CAR0139,07-11-2025,Tata,Punch,SUV,CNG,Automatic,Grey,2025,Bhopal,Madhya Pradesh,1,811801,3.3,785012,627942,157070,20.01,52,Male,Cash,Pooja Nair
+CAR0140,08-10-2025,Honda,Accord,Sedan,Diesel,Manual,Black,2024,Kolkata,West Bengal,3,4400485,11.2,11722892,9314859,2408033,20.54,55,Female,Cash,Sneha Joshi
+CAR0141,01-08-2025,MG,Gloster,Luxury,Hybrid,Manual,Blue,2024,Nagpur,Maharashtra,2,4163364,2.6,8110233,6465095,1645138,20.28,41,Male,Loan,Vikram Singh
+CAR0142,31-01-2025,Toyota,Corolla,Sedan,Petrol,Automatic,White,2024,Indore,Madhya Pradesh,1,2039942,5.4,1929785,1521228,408557,21.17,48,Male,Cash,Rohan Kulkarni
+CAR0143,04-10-2025,Mahindra,XUV300,SUV,Diesel,Automatic,White,2023,Jaipur,Rajasthan,2,1176124,8.8,2145250,1857857,287393,13.4,56,Female,Finance,Rahul Verma
+CAR0144,14-07-2025,Maruti,Swift,Hatchback,Diesel,Manual,Red,2024,Mumbai,Maharashtra,1,715738,9.2,649890,542747,107143,16.49,31,Female,Cash,Priya Patil
+CAR0145,17-08-2025,Toyota,Fortuner,SUV,Petrol,Manual,Grey,2023,Bhopal,Madhya Pradesh,1,4025728,2.7,3917033,3357731,559302,14.28,47,Female,Cash,Karan Shah
+CAR0146,22-10-2025,Maruti,Swift,Hatchback,CNG,Automatic,Black,2024,Gurgaon,Haryana,2,776849,4.3,1486889,1336909,149980,10.09,31,Male,Loan,Vikram Singh
+CAR0147,07-08-2025,Tata,Nexon,SUV,Hybrid,Manual,Silver,2025,Bhubaneswar,Odisha,2,1060754,11.1,1886021,1624579,261442,13.86,46,Female,Finance,Rohan Kulkarni
+CAR0148,26-04-2025,Kia,Sonet,SUV,CNG,Manual,Red,2023,Coimbatore,Tamil Nadu,2,1044363,7.4,1934160,1569234,364926,18.87,57,Female,Loan,Karan Shah
+CAR0149,19-08-2025,Skoda,Kushaq,SUV,CNG,Manual,Blue,2025,Ahmedabad,Gujarat,1,1537279,5.3,1455803,1150491,305312,20.97,34,Male,Loan,Rohan Kulkarni
+CAR0150,22-04-2025,MG,Hector,SUV,Hybrid,Manual,Silver,2024,Nagpur,Maharashtra,1,2097488,7.9,1931786,1675416,256370,13.27,22,Male,Cash,Priya Patil
+CAR0151,25-05-2025,Volkswagen,Taigun,SUV,Hybrid,Automatic,Blue,2025,Bhopal,Madhya Pradesh,3,1524355,11.2,4060882,3458939,601943,14.82,44,Female,Loan,Ananya Desai
+CAR0152,13-06-2025,Skoda,Superb,Luxury,Diesel,Automatic,Silver,2024,Jaipur,Rajasthan,1,3984113,9.2,3617575,3179891,437684,12.1,24,Male,Finance,Rahul Verma
+CAR0153,18-06-2025,Toyota,RAV4,SUV,Diesel,Automatic,Blue,2023,Bhubaneswar,Odisha,2,3848119,6.2,7219071,5773910,1445161,20.02,53,Female,Loan,Neha Mehta
+CAR0154,08-09-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,Blue,2023,Noida,Uttar Pradesh,3,942476,3.7,2722813,2378760,344053,12.64,26,Male,Cash,Rohan Kulkarni
+CAR0155,31-01-2025,Hyundai,Verna,Sedan,Hybrid,Automatic,White,2023,Nagpur,Maharashtra,3,1227414,4.2,3527588,2960638,566950,16.07,56,Female,Cash,Aarav Sharma
+CAR0156,02-04-2025,Skoda,Kodiaq,Luxury,Petrol,Manual,Blue,2023,Bhubaneswar,Odisha,1,3875520,10.1,3484092,3022883,461209,13.24,37,Male,Finance,Karan Shah
+CAR0157,05-05-2025,Tata,Punch,SUV,Diesel,Automatic,Grey,2023,Chennai,Tamil Nadu,2,792747,11.6,1401577,1176862,224715,16.03,24,Male,Loan,Rohan Kulkarni
+CAR0158,11-08-2025,Kia,EV6,Luxury,Electric,Automatic,Blue,2023,Pune,Maharashtra,3,5713375,3.7,16505940,13947215,2558725,15.5,55,Male,Cash,Sneha Joshi
+CAR0159,06-10-2025,MG,Gloster,Luxury,Petrol,Manual,Silver,2023,Chennai,Tamil Nadu,1,4485035,8.8,4090352,3339562,750790,18.36,35,Male,Finance,Rohan Kulkarni
+CAR0160,04-10-2025,Honda,CR-V,SUV,CNG,Automatic,Grey,2023,Noida,Uttar Pradesh,2,3354664,10.3,6018267,4998715,1019552,16.94,27,Female,Cash,Priya Patil
+CAR0161,17-06-2025,Kia,Sonet,SUV,Petrol,Automatic,Red,2024,Nagpur,Maharashtra,1,1118510,8.1,1027911,881361,146550,14.26,36,Female,Finance,Rohan Kulkarni
+CAR0162,07-05-2025,Kia,Sonet,SUV,Petrol,Manual,Silver,2023,Indore,Madhya Pradesh,3,1078893,9.7,2922721,2391953,530768,18.16,46,Male,Finance,Rohan Kulkarni
+CAR0163,19-05-2025,Mahindra,Scorpio,SUV,Petrol,Manual,White,2023,Delhi,Delhi,1,1841662,5.1,1747737,1445010,302727,17.32,49,Female,Finance,Karan Shah
+CAR0164,16-06-2025,Skoda,Superb,Luxury,Hybrid,Manual,Silver,2024,Delhi,Delhi,1,3550488,7.5,3284201,2816531,467670,14.24,46,Male,Finance,Karan Shah
+CAR0165,02-02-2025,Maruti,Baleno,Hatchback,Diesel,Automatic,Silver,2024,Ahmedabad,Gujarat,1,753772,5,716083,604450,111633,15.59,41,Female,Cash,Ananya Desai
+CAR0166,04-01-2025,Tata,Harrier,SUV,Hybrid,Automatic,Blue,2024,Lucknow,Uttar Pradesh,2,1935467,6.6,3615452,2883734,731718,20.24,43,Female,Loan,Rohan Kulkarni
+CAR0167,01-04-2025,MG,Astor,SUV,Hybrid,Automatic,Silver,2025,Coimbatore,Tamil Nadu,1,1728073,9,1572546,1324510,248036,15.77,62,Female,Finance,Sneha Joshi
+CAR0168,07-10-2025,Mahindra,XUV300,SUV,Diesel,Manual,Grey,2024,Chennai,Tamil Nadu,2,1174083,11.3,2082823,1678701,404122,19.4,35,Female,Loan,Priya Patil
+CAR0169,05-08-2025,Kia,EV6,Luxury,Electric,Automatic,White,2024,Gurgaon,Haryana,3,6004410,4.5,17202635,13762772,3439863,20,60,Female,Finance,Rohan Kulkarni
+CAR0170,02-10-2025,Skoda,Superb,Luxury,Petrol,Manual,Black,2025,Bhubaneswar,Odisha,1,3976758,5.6,3754060,3365196,388864,10.36,44,Male,Finance,Pooja Nair
+CAR0171,23-09-2025,Toyota,Fortuner,SUV,Diesel,Automatic,Silver,2024,Hyderabad,Telangana,2,3935195,3,7634278,6175063,1459215,19.11,51,Male,Loan,Aarav Sharma
+CAR0172,14-03-2025,Volkswagen,Virtus,Sedan,CNG,Automatic,Silver,2024,Coimbatore,Tamil Nadu,2,1600931,2.9,3109008,2761021,347987,11.19,35,Female,Loan,Neha Mehta
+CAR0173,12-01-2025,Honda,Accord,Sedan,CNG,Manual,Grey,2023,Jaipur,Rajasthan,1,4188366,2.4,4087845,3566241,521604,12.76,37,Male,Finance,Rahul Verma
+CAR0174,03-12-2025,Mahindra,XUV300,SUV,Hybrid,Automatic,White,2025,Jaipur,Rajasthan,1,1257169,8.3,1152824,927136,225688,19.58,61,Male,Loan,Pooja Nair
+CAR0175,02-02-2025,Kia,EV6,Luxury,Electric,Manual,Blue,2023,Mumbai,Maharashtra,3,5917078,4.8,16899175,14727441,2171734,12.85,45,Female,Cash,Neha Mehta
+CAR0176,20-07-2025,Honda,CR-V,SUV,Petrol,Automatic,Silver,2024,Lucknow,Uttar Pradesh,2,3760913,5.1,7138213,5928451,1209762,16.95,61,Male,Finance,Vikram Singh
+CAR0177,22-12-2025,MG,Hector,SUV,Diesel,Automatic,Red,2025,Gurgaon,Haryana,1,1877716,5.1,1781952,1432326,349626,19.62,30,Female,Loan,Rahul Verma
+CAR0178,19-08-2025,Volkswagen,Taigun,SUV,Petrol,Automatic,White,2024,Bhubaneswar,Odisha,1,1597348,3.4,1543038,1266673,276365,17.91,30,Male,Loan,Karan Shah
+CAR0179,27-03-2025,Skoda,Superb,Luxury,Petrol,Manual,Black,2024,Surat,Gujarat,3,3794969,9.1,10348880,8669264,1679616,16.23,24,Female,Cash,Karan Shah
+CAR0180,27-02-2025,Tata,Harrier,SUV,Petrol,Automatic,Blue,2024,Jaipur,Rajasthan,2,1973726,9.7,3564549,3035087,529462,14.85,56,Male,Finance,Neha Mehta
+CAR0181,17-01-2025,Skoda,Kushaq,SUV,Hybrid,Automatic,Silver,2023,Surat,Gujarat,1,1660413,8.5,1519278,1233926,285352,18.78,50,Male,Cash,Sneha Joshi
+CAR0182,16-04-2025,MG,ZS EV,SUV,Electric,Manual,Blue,2024,Bhopal,Madhya Pradesh,3,2372416,8.2,6533634,5762864,770770,11.8,56,Female,Finance,Karan Shah
+CAR0183,14-12-2025,Hyundai,Venue,SUV,Petrol,Manual,Red,2023,Coimbatore,Tamil Nadu,1,1011638,11.5,895300,758206,137094,15.31,39,Male,Finance,Rahul Verma
+CAR0184,23-10-2025,Maruti,Baleno,Hatchback,CNG,Automatic,Red,2024,Hyderabad,Telangana,1,833469,8.8,760124,641263,118861,15.64,26,Male,Loan,Karan Shah
+CAR0185,17-02-2025,Tata,Punch,SUV,Hybrid,Automatic,White,2025,Jaipur,Rajasthan,2,826511,2,1619962,1426599,193363,11.94,47,Male,Loan,Sneha Joshi
+CAR0186,06-09-2025,Volkswagen,Tiguan,SUV,CNG,Manual,White,2023,Hyderabad,Telangana,1,3409143,7.8,3143230,2683056,460174,14.64,62,Female,Cash,Priya Patil
+CAR0187,09-03-2025,Hyundai,Tucson,SUV,CNG,Manual,Silver,2023,Jaipur,Rajasthan,1,3128213,6.3,2931136,2665693,265443,9.06,45,Female,Cash,Ananya Desai
+CAR0188,02-12-2025,Hyundai,Creta,SUV,Petrol,Manual,White,2023,Ahmedabad,Gujarat,3,1453322,9,3967569,3215471,752098,18.96,52,Male,Cash,Pooja Nair
+CAR0189,05-08-2025,Maruti,Grand Vitara,SUV,Diesel,Automatic,White,2023,Mumbai,Maharashtra,1,1546943,10.2,1389155,1261992,127163,9.15,46,Male,Finance,Priya Patil
+CAR0190,10-03-2025,Honda,CR-V,SUV,Diesel,Manual,Blue,2025,Kochi,Kerala,1,3296792,9.7,2977003,2613542,363461,12.21,22,Male,Loan,Ananya Desai
+CAR0191,21-02-2025,Maruti,Baleno,Hatchback,Diesel,Manual,Blue,2025,Surat,Gujarat,2,823880,10.6,1473097,1165617,307480,20.87,46,Female,Loan,Ananya Desai
+CAR0192,08-11-2025,Hyundai,Verna,Sedan,CNG,Manual,Grey,2024,Chennai,Tamil Nadu,3,1213524,7.5,3367529,2889343,478186,14.2,35,Male,Finance,Rohan Kulkarni
+CAR0193,06-02-2025,Tata,Nexon,SUV,Petrol,Automatic,Silver,2023,Mysuru,Karnataka,2,981742,4.4,1877091,1619837,257254,13.7,46,Female,Loan,Karan Shah
+CAR0194,31-01-2025,Hyundai,Tucson,SUV,Hybrid,Automatic,Grey,2025,Nagpur,Maharashtra,1,2940537,2.1,2878786,2326193,552593,19.2,54,Female,Loan,Rohan Kulkarni
+CAR0195,21-03-2025,Honda,City,Sedan,CNG,Automatic,Blue,2025,Chennai,Tamil Nadu,1,1260461,7.1,1170968,944287,226681,19.36,26,Female,Finance,Rohan Kulkarni
+CAR0196,29-01-2025,Maruti,Swift,Hatchback,CNG,Manual,White,2023,Mysuru,Karnataka,1,768917,3.2,744312,639810,104502,14.04,30,Male,Cash,Neha Mehta
+CAR0197,02-03-2025,Mahindra,Scorpio,SUV,Petrol,Automatic,Red,2024,Noida,Uttar Pradesh,1,1880618,9.8,1696317,1382396,313921,18.51,55,Male,Loan,Pooja Nair
+CAR0198,08-07-2025,Honda,Accord,Sedan,Diesel,Automatic,White,2025,Jaipur,Rajasthan,2,4399289,7,8182678,6985513,1197165,14.63,29,Male,Finance,Karan Shah
+CAR0199,02-04-2025,Toyota,Camry,Luxury,Petrol,Automatic,Black,2024,Mumbai,Maharashtra,1,4451314,5.6,4202040,3780279,421761,10.04,37,Female,Finance,Ananya Desai
+CAR0200,25-04-2025,Tata,Nexon,SUV,Petrol,Automatic,White,2024,Indore,Madhya Pradesh,1,939104,8.7,857402,674645,182757,21.32,40,Female,Loan,Priya Patil
+CAR0201,15-11-2025,Skoda,Superb,Luxury,Diesel,Automatic,Silver,2025,Mumbai,Maharashtra,1,3618008,7.6,3343039,2739648,603391,18.05,53,Male,Finance,Karan Shah
+CAR0202,22-12-2025,Maruti,Baleno,Hatchback,Petrol,Automatic,White,2025,Mumbai,Maharashtra,2,739061,7.4,1368741,1180775,187966,13.73,46,Female,Cash,Sneha Joshi
+CAR0203,24-05-2025,Skoda,Kushaq,SUV,Petrol,Manual,Black,2025,Surat,Gujarat,2,1718063,11.7,3034099,2422754,611345,20.15,48,Female,Loan,Priya Patil
+CAR0204,01-02-2025,MG,Hector,SUV,Hybrid,Manual,Black,2024,Kolkata,West Bengal,1,2043909,5.9,1923318,1648181,275137,14.31,38,Female,Loan,Ananya Desai
+CAR0205,27-10-2025,Mahindra,XUV300,SUV,Petrol,Manual,White,2023,Chennai,Tamil Nadu,1,1118340,4,1073606,946268,127338,11.86,50,Female,Loan,Rohan Kulkarni
+CAR0206,22-03-2025,Honda,CR-V,SUV,CNG,Manual,Black,2024,Bengaluru,Karnataka,2,3392652,4.7,6466395,5144591,1321804,20.44,31,Male,Finance,Sneha Joshi
+CAR0207,16-01-2025,Mahindra,XUV300,SUV,Hybrid,Automatic,Blue,2025,Kolkata,West Bengal,1,1234019,4.6,1177254,1069874,107380,9.12,57,Male,Cash,Neha Mehta
+CAR0208,12-04-2025,Honda,City,Sedan,Hybrid,Automatic,Grey,2025,Delhi,Delhi,1,1208827,9.8,1090362,881991,208371,19.11,27,Female,Cash,Aarav Sharma
+CAR0209,04-03-2025,Honda,City,Sedan,Petrol,Automatic,White,2023,Jaipur,Rajasthan,1,1215132,10.5,1087543,962644,124899,11.48,58,Female,Finance,Rohan Kulkarni
+CAR0210,21-05-2025,Volkswagen,Virtus,Sedan,CNG,Automatic,Black,2023,Ahmedabad,Gujarat,3,1482399,5.5,4202601,3774270,428331,10.19,61,Male,Finance,Vikram Singh
+CAR0211,13-04-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,Red,2025,Bhubaneswar,Odisha,2,836781,4.8,1593231,1271145,322086,20.22,44,Female,Finance,Neha Mehta
+CAR0212,24-05-2025,Mahindra,Scorpio,SUV,Petrol,Automatic,Blue,2024,Ahmedabad,Gujarat,1,1897541,5.2,1798869,1454336,344533,19.15,59,Male,Cash,Priya Patil
+CAR0213,23-04-2025,Maruti,Baleno,Hatchback,Hybrid,Automatic,Black,2023,Chennai,Tamil Nadu,2,840485,11.2,1492701,1175156,317545,21.27,37,Female,Finance,Ananya Desai
+CAR0214,10-09-2025,MG,Hector,SUV,CNG,Manual,Red,2023,Kochi,Kerala,2,2020354,7.6,3733614,3003582,730032,19.55,27,Male,Cash,Pooja Nair
+CAR0215,08-03-2025,Maruti,Swift,Hatchback,CNG,Manual,Silver,2023,Kolkata,West Bengal,2,662479,11.2,1176563,948534,228029,19.38,23,Male,Finance,Rahul Verma
+CAR0216,22-06-2025,Honda,CR-V,SUV,CNG,Automatic,Black,2023,Nagpur,Maharashtra,1,3614541,8.6,3303690,2828560,475130,14.38,49,Female,Finance,Ananya Desai
+CAR0217,19-12-2025,Hyundai,Venue,SUV,CNG,Manual,Black,2025,Mysuru,Karnataka,3,1014232,3.8,2927074,2399870,527204,18.01,22,Female,Finance,Aarav Sharma
+CAR0218,19-06-2025,Hyundai,Venue,SUV,Petrol,Manual,Silver,2024,Bhopal,Madhya Pradesh,1,1022343,3,991673,837472,154201,15.55,32,Male,Finance,Ananya Desai
+CAR0219,25-02-2025,Volkswagen,Virtus,Sedan,Petrol,Manual,Red,2024,Chennai,Tamil Nadu,1,1439890,2.7,1401013,1139536,261477,18.66,48,Male,Loan,Neha Mehta
+CAR0220,30-11-2025,Kia,Carens,MUV,Diesel,Manual,Red,2023,Bhubaneswar,Odisha,2,1404343,6.8,2617695,2335839,281856,10.77,24,Female,Cash,Ananya Desai
+CAR0221,08-10-2025,Tata,Nexon,SUV,Petrol,Automatic,Blue,2025,Nagpur,Maharashtra,1,947217,5.8,892278,780884,111394,12.48,52,Male,Loan,Rahul Verma
+CAR0222,23-12-2025,MG,Gloster,Luxury,CNG,Automatic,Silver,2023,Noida,Uttar Pradesh,1,3932045,4.1,3770831,3034380,736451,19.53,28,Male,Loan,Pooja Nair
+CAR0223,05-12-2025,Skoda,Superb,Luxury,Hybrid,Manual,White,2023,Gurgaon,Haryana,1,3715384,6.3,3481315,2848730,632585,18.17,35,Male,Finance,Vikram Singh
+CAR0224,16-05-2025,Honda,Accord,Sedan,Petrol,Automatic,Black,2024,Delhi,Delhi,1,4705111,6.7,4389869,3934789,455080,10.37,46,Female,Cash,Neha Mehta
+CAR0225,19-03-2025,Toyota,RAV4,SUV,Petrol,Manual,Grey,2024,Jaipur,Rajasthan,2,3656148,10.4,6551817,5591007,960810,14.66,56,Female,Finance,Sneha Joshi
+CAR0226,01-09-2025,Skoda,Slavia,Sedan,Diesel,Automatic,Silver,2023,Ahmedabad,Gujarat,2,1480472,7.4,2741834,2447625,294209,10.73,47,Male,Finance,Pooja Nair
+CAR0227,09-04-2025,Skoda,Kushaq,SUV,Diesel,Manual,Red,2023,Delhi,Delhi,2,1516257,11.8,2674677,2424278,250399,9.36,49,Male,Finance,Rahul Verma
+CAR0228,23-07-2025,MG,ZS EV,SUV,Electric,Automatic,Silver,2025,Hyderabad,Telangana,3,2559043,2.7,7469847,6203356,1266491,16.95,51,Male,Finance,Pooja Nair
+CAR0229,21-02-2025,MG,Gloster,Luxury,Petrol,Manual,Silver,2025,Delhi,Delhi,2,3964560,7.7,7318578,6262859,1055719,14.43,44,Female,Loan,Rohan Kulkarni
+CAR0230,22-12-2025,Volkswagen,Polo,Hatchback,Hybrid,Manual,Red,2024,Pune,Maharashtra,1,867660,3.4,838160,720084,118076,14.09,37,Male,Finance,Neha Mehta
+CAR0231,09-09-2025,Tata,Punch,SUV,Petrol,Manual,Black,2024,Mumbai,Maharashtra,1,893164,5,848506,692759,155747,18.36,50,Female,Loan,Rohan Kulkarni
+CAR0232,22-09-2025,MG,Hector,SUV,CNG,Manual,Blue,2023,Bengaluru,Karnataka,2,1907645,10.2,3426130,3002396,423734,12.37,26,Female,Finance,Karan Shah
+CAR0233,30-01-2025,Kia,Sonet,SUV,Diesel,Manual,Red,2023,Kolkata,West Bengal,2,1017095,3.9,1954857,1736462,218395,11.17,45,Male,Loan,Ananya Desai
+CAR0234,01-04-2025,Volkswagen,Polo,Hatchback,Hybrid,Automatic,Silver,2023,Delhi,Delhi,3,832401,5.7,2354862,2018648,336214,14.28,38,Male,Loan,Aarav Sharma
+CAR0235,26-04-2025,Kia,Seltos,SUV,Diesel,Automatic,Grey,2024,Noida,Uttar Pradesh,2,1671637,4.1,3206200,2593096,613104,19.12,54,Male,Finance,Aarav Sharma
+CAR0236,06-06-2025,Volkswagen,Taigun,SUV,CNG,Automatic,Red,2024,Noida,Uttar Pradesh,2,1677021,4.2,3213172,2760387,452785,14.09,51,Female,Cash,Neha Mehta
+CAR0237,11-07-2025,Tata,Safari,SUV,CNG,Automatic,Grey,2023,Indore,Madhya Pradesh,1,2210821,12,1945522,1761949,183573,9.44,52,Male,Loan,Vikram Singh
+CAR0238,18-03-2025,Mahindra,Scorpio,SUV,Diesel,Manual,Blue,2024,Chennai,Tamil Nadu,3,2067550,10.9,5526561,4525385,1001176,18.12,42,Male,Finance,Aarav Sharma
+CAR0239,20-10-2025,Volkswagen,Tiguan,SUV,Diesel,Automatic,Grey,2025,Chennai,Tamil Nadu,2,3446575,9.4,6245194,5344594,900600,14.42,36,Female,Finance,Ananya Desai
+CAR0240,07-03-2025,Skoda,Kodiaq,Luxury,CNG,Manual,Grey,2024,Noida,Uttar Pradesh,3,4453004,3.8,12851370,10187132,2664238,20.73,27,Male,Loan,Sneha Joshi
+CAR0241,29-08-2025,Tata,Safari,SUV,Petrol,Manual,Red,2023,Hyderabad,Telangana,1,2308055,4.9,2194960,1954958,240002,10.93,54,Male,Finance,Rohan Kulkarni
+CAR0242,25-06-2025,Skoda,Kodiaq,Luxury,Hybrid,Automatic,Black,2024,Surat,Gujarat,1,4449211,3.5,4293489,3902804,390685,9.1,33,Male,Loan,Ananya Desai
+CAR0243,23-10-2025,Hyundai,Venue,SUV,Diesel,Automatic,White,2023,Pune,Maharashtra,1,992329,4.1,951644,837980,113664,11.94,61,Female,Finance,Rohan Kulkarni
+CAR0244,08-01-2025,Kia,EV6,Luxury,Electric,Automatic,Blue,2023,Lucknow,Uttar Pradesh,2,5708632,7.3,10583804,9260677,1323127,12.5,23,Male,Finance,Sneha Joshi
+CAR0245,03-02-2025,Maruti,Brezza,SUV,Petrol,Automatic,Silver,2024,Coimbatore,Tamil Nadu,1,983255,7,914427,749643,164784,18.02,55,Female,Loan,Rahul Verma
+CAR0246,10-01-2025,Mahindra,XUV300,SUV,Diesel,Manual,Grey,2023,Kochi,Kerala,1,1135658,11.1,1009600,894062,115538,11.44,35,Male,Finance,Karan Shah
+CAR0247,11-05-2025,Hyundai,Creta,SUV,Petrol,Manual,Grey,2023,Kochi,Kerala,3,1536130,2.4,4497789,4020802,476987,10.6,23,Male,Finance,Priya Patil
+CAR0248,22-12-2025,Kia,EV6,Luxury,Electric,Manual,Silver,2024,Ahmedabad,Gujarat,1,6246904,6.7,5828361,4662144,1166217,20.01,28,Female,Finance,Pooja Nair
+CAR0249,24-02-2025,Hyundai,Tucson,SUV,Hybrid,Manual,Blue,2023,Delhi,Delhi,2,3001508,3.2,5810919,4618644,1192275,20.52,38,Male,Loan,Rohan Kulkarni
+CAR0250,19-06-2025,Tata,Harrier,SUV,Diesel,Manual,White,2025,Pune,Maharashtra,2,1898892,4.1,3642075,3282625,359450,9.87,27,Male,Finance,Neha Mehta
+CAR0251,29-04-2025,Hyundai,Creta,SUV,Hybrid,Automatic,Silver,2024,Kolkata,West Bengal,1,1553655,3,1507045,1225628,281417,18.67,25,Male,Cash,Aarav Sharma
+CAR0252,24-01-2025,Tata,Punch,SUV,Petrol,Manual,Grey,2025,Hyderabad,Telangana,2,882441,2.9,1713700,1505599,208101,12.14,32,Female,Loan,Neha Mehta
+CAR0253,22-08-2025,MG,ZS EV,SUV,Electric,Automatic,Red,2025,Nagpur,Maharashtra,1,2520946,3.8,2425150,2017970,407180,16.79,52,Female,Finance,Rahul Verma
+CAR0254,19-10-2025,Honda,City,Sedan,Hybrid,Manual,Blue,2024,Pune,Maharashtra,1,1217572,11.1,1082422,912209,170213,15.73,44,Male,Finance,Rahul Verma
+CAR0255,07-01-2025,Volkswagen,Polo,Hatchback,Diesel,Automatic,Blue,2025,Delhi,Delhi,2,891459,2.6,1736562,1502381,234181,13.49,61,Male,Loan,Sneha Joshi
+CAR0256,28-01-2025,Volkswagen,Tiguan,SUV,Petrol,Manual,Blue,2024,Ahmedabad,Gujarat,1,3689858,7.6,3409429,3097169,312260,9.16,53,Male,Cash,Neha Mehta
+CAR0257,26-07-2025,Mahindra,XUV700,SUV,Diesel,Manual,Red,2024,Hyderabad,Telangana,1,2041723,4.2,1955971,1689238,266733,13.64,58,Female,Cash,Neha Mehta
+CAR0258,19-01-2025,Volkswagen,Tiguan,SUV,Petrol,Manual,Blue,2025,Delhi,Delhi,2,3637334,2.2,7114625,5922549,1192076,16.76,62,Female,Finance,Karan Shah
+CAR0259,19-06-2025,Maruti,Grand Vitara,SUV,Hybrid,Automatic,Grey,2024,Hyderabad,Telangana,1,1578075,10.2,1417111,1260890,156221,11.02,29,Male,Finance,Sneha Joshi
+CAR0260,26-12-2025,Toyota,RAV4,SUV,Petrol,Manual,Black,2024,Kochi,Kerala,3,4082376,4.9,11647019,9875019,1772000,15.21,30,Female,Cash,Vikram Singh
+CAR0261,08-04-2025,MG,Astor,SUV,CNG,Manual,Red,2023,Bengaluru,Karnataka,1,1817019,5.9,1709815,1435246,274569,16.06,62,Male,Loan,Neha Mehta
+CAR0262,27-10-2025,MG,Astor,SUV,Hybrid,Manual,Grey,2025,Lucknow,Uttar Pradesh,1,1708259,2.5,1665553,1501646,163907,9.84,33,Male,Cash,Rohan Kulkarni
+CAR0263,08-05-2025,MG,ZS EV,SUV,Electric,Automatic,Red,2024,Kolkata,West Bengal,2,2368767,8.1,4353794,3787918,565876,13,40,Female,Cash,Rahul Verma
+CAR0264,13-04-2025,Kia,Carens,MUV,Diesel,Automatic,Grey,2024,Bhubaneswar,Odisha,1,1550850,11.4,1374053,1184758,189295,13.78,30,Male,Finance,Karan Shah
+CAR0265,02-08-2025,Mahindra,Thar,SUV,CNG,Automatic,White,2025,Kochi,Kerala,2,1594975,7.7,2944324,2551935,392389,13.33,28,Male,Loan,Rahul Verma
+CAR0266,09-05-2025,Toyota,Camry,Luxury,Diesel,Manual,Grey,2024,Bengaluru,Karnataka,1,4992142,3.6,4812425,3933003,879422,18.27,35,Male,Loan,Neha Mehta
+CAR0267,28-05-2025,Honda,City,Sedan,Petrol,Automatic,Red,2024,Bhubaneswar,Odisha,2,1245420,9.8,2246738,1985772,260966,11.62,42,Male,Cash,Vikram Singh
+CAR0268,07-10-2025,Maruti,Grand Vitara,SUV,Diesel,Manual,Silver,2024,Mysuru,Karnataka,3,1549111,8.5,4252310,3734226,518084,12.18,33,Male,Cash,Rahul Verma
+CAR0269,27-10-2025,Skoda,Slavia,Sedan,CNG,Manual,Silver,2024,Ahmedabad,Gujarat,1,1482842,7.6,1370146,1091881,278265,20.31,31,Male,Cash,Ananya Desai
+CAR0270,07-02-2025,MG,Hector,SUV,CNG,Manual,Black,2025,Bhopal,Madhya Pradesh,3,1936370,9.9,5234008,4456867,777141,14.85,26,Male,Loan,Karan Shah
+CAR0271,04-07-2025,Skoda,Superb,Luxury,CNG,Manual,Blue,2025,Nagpur,Maharashtra,1,3630488,4.1,3481638,2865892,615746,17.69,52,Male,Cash,Ananya Desai
+CAR0272,15-07-2025,Volkswagen,Taigun,SUV,Petrol,Automatic,Silver,2025,Bhopal,Madhya Pradesh,2,1534420,2.4,2995188,2681100,314088,10.49,40,Male,Finance,Ananya Desai
+CAR0273,12-02-2025,Skoda,Superb,Luxury,Petrol,Manual,Blue,2025,Lucknow,Uttar Pradesh,1,3676232,8.5,3363752,2763795,599957,17.84,22,Male,Cash,Sneha Joshi
+CAR0274,11-08-2025,Kia,Seltos,SUV,Petrol,Manual,White,2024,Bengaluru,Karnataka,2,1684160,10.8,3004541,2633116,371425,12.36,43,Male,Cash,Priya Patil
+CAR0275,28-07-2025,Toyota,Corolla,Sedan,Hybrid,Automatic,Grey,2024,Chennai,Tamil Nadu,2,2048796,10.2,3679638,3305891,373747,10.16,49,Female,Cash,Rohan Kulkarni
+CAR0276,07-02-2025,Honda,Civic,Sedan,CNG,Manual,Silver,2025,Bhopal,Madhya Pradesh,1,2290098,7.9,2109180,1837338,271842,12.89,41,Male,Loan,Neha Mehta
+CAR0277,07-10-2025,Kia,EV6,Luxury,Electric,Automatic,Grey,2023,Mumbai,Maharashtra,2,5859073,4.2,11225984,9846064,1379920,12.29,41,Female,Cash,Karan Shah
+CAR0278,13-02-2025,Skoda,Kushaq,SUV,CNG,Manual,Grey,2025,Delhi,Delhi,1,1473288,8,1355425,1151881,203544,15.02,44,Male,Loan,Karan Shah
+CAR0279,10-12-2025,Hyundai,Verna,Sedan,Petrol,Automatic,Grey,2025,Noida,Uttar Pradesh,1,1324312,4.5,1264718,1005326,259392,20.51,26,Female,Finance,Priya Patil
+CAR0280,10-12-2025,Tata,Nexon,SUV,Diesel,Manual,Silver,2025,Bengaluru,Karnataka,3,1012895,11.5,2689236,2222460,466776,17.36,26,Male,Loan,Neha Mehta
+CAR0281,06-07-2025,Volkswagen,Tiguan,SUV,CNG,Automatic,Black,2023,Bhopal,Madhya Pradesh,3,3391178,7.8,9379998,8006032,1373966,14.65,42,Male,Cash,Rohan Kulkarni
+CAR0282,03-07-2025,Tata,Punch,SUV,CNG,Automatic,Blue,2023,Gurgaon,Haryana,3,881684,10.8,2359386,1982286,377100,15.98,33,Male,Loan,Rahul Verma
+CAR0283,10-01-2025,Skoda,Kushaq,SUV,Petrol,Automatic,Blue,2023,Chennai,Tamil Nadu,3,1698902,2.8,4953998,3912678,1041320,21.02,24,Female,Finance,Karan Shah
+CAR0284,29-05-2025,Volkswagen,Taigun,SUV,Diesel,Automatic,Blue,2025,Kochi,Kerala,2,1529167,9.7,2761676,2417349,344327,12.47,27,Female,Loan,Karan Shah
+CAR0285,02-04-2025,Toyota,Corolla,Sedan,Diesel,Automatic,Silver,2023,Bhopal,Madhya Pradesh,3,2082377,7.1,5803585,4863454,940131,16.2,36,Female,Cash,Priya Patil
+CAR0286,18-07-2025,Tata,Punch,SUV,Hybrid,Automatic,White,2023,Mysuru,Karnataka,1,872928,7.2,810077,715209,94868,11.71,42,Male,Finance,Karan Shah
+CAR0287,28-10-2025,Tata,Punch,SUV,Petrol,Automatic,Red,2023,Indore,Madhya Pradesh,2,859542,5.8,1619377,1342799,276578,17.08,55,Female,Loan,Ananya Desai
+CAR0288,09-02-2025,Volkswagen,Polo,Hatchback,CNG,Manual,Black,2023,Bhopal,Madhya Pradesh,1,900265,3.4,869656,697054,172602,19.85,32,Female,Finance,Priya Patil
+CAR0289,30-10-2025,Maruti,Grand Vitara,SUV,Diesel,Automatic,White,2023,Hyderabad,Telangana,3,1407201,8.8,3850102,3242836,607266,15.77,24,Male,Finance,Pooja Nair
+CAR0290,03-04-2025,Hyundai,Verna,Sedan,Hybrid,Manual,Grey,2025,Kolkata,West Bengal,1,1381286,3.5,1332941,1068518,264423,19.84,40,Male,Cash,Neha Mehta
+CAR0291,26-10-2025,MG,Gloster,Luxury,Diesel,Automatic,Black,2025,Lucknow,Uttar Pradesh,1,4011412,6.1,3766716,3007921,758795,20.14,43,Female,Finance,Pooja Nair
+CAR0292,16-09-2025,Honda,City,Sedan,Hybrid,Manual,Blue,2023,Ahmedabad,Gujarat,2,1223500,2.2,2393166,2029291,363875,15.2,33,Female,Finance,Pooja Nair
+CAR0293,01-01-2025,Toyota,Camry,Luxury,Hybrid,Automatic,Silver,2023,Nagpur,Maharashtra,2,4922414,11,8761897,7448552,1313345,14.99,55,Female,Cash,Neha Mehta
+CAR0294,06-08-2025,Kia,Carens,MUV,Diesel,Automatic,Red,2023,Indore,Madhya Pradesh,3,1597886,10.4,4295118,3671878,623240,14.51,27,Female,Finance,Karan Shah
+CAR0295,02-03-2025,Kia,Carens,MUV,Petrol,Automatic,Grey,2023,Bengaluru,Karnataka,1,1550196,9.9,1396727,1194395,202332,14.49,42,Female,Loan,Priya Patil
+CAR0296,10-11-2025,Hyundai,Tucson,SUV,CNG,Automatic,Black,2024,Indore,Madhya Pradesh,1,2789245,7.4,2582841,2204215,378626,14.66,57,Female,Cash,Ananya Desai
+CAR0297,12-03-2025,Skoda,Superb,Luxury,Petrol,Manual,Red,2025,Chennai,Tamil Nadu,1,3847212,9.7,3474032,2889550,584482,16.82,32,Male,Cash,Karan Shah
+CAR0298,22-11-2025,Kia,Carens,MUV,Petrol,Manual,Black,2024,Bhubaneswar,Odisha,2,1547294,9.1,2812980,2252904,560076,19.91,60,Female,Cash,Priya Patil
+CAR0299,25-07-2025,Tata,Harrier,SUV,CNG,Manual,Black,2025,Kochi,Kerala,1,1933145,9.2,1755296,1581502,173794,9.9,53,Female,Cash,Sneha Joshi
+CAR0300,11-11-2025,Skoda,Kodiaq,Luxury,Diesel,Manual,Silver,2023,Bengaluru,Karnataka,1,4390821,7.1,4079073,3552051,527022,12.92,22,Male,Cash,Vikram Singh
+CAR0301,05-02-2025,Kia,Carens,MUV,Petrol,Automatic,Grey,2025,Ahmedabad,Gujarat,2,1520659,7.2,2822343,2471809,350534,12.42,59,Female,Loan,Vikram Singh
+CAR0302,24-02-2025,Maruti,Baleno,Hatchback,Petrol,Automatic,Silver,2023,Jaipur,Rajasthan,2,809588,4.6,1544694,1286618,258076,16.71,54,Female,Finance,Pooja Nair
+CAR0303,23-08-2025,Tata,Safari,SUV,Hybrid,Manual,Red,2023,Ahmedabad,Gujarat,2,2393714,4.4,4576781,3771981,804800,17.58,38,Male,Loan,Sneha Joshi
+CAR0304,08-05-2025,Maruti,Brezza,SUV,CNG,Manual,Red,2025,Surat,Gujarat,1,1052773,2.1,1030665,915419,115246,11.18,43,Male,Finance,Rahul Verma
+CAR0305,16-12-2025,Volkswagen,Tiguan,SUV,Diesel,Automatic,Grey,2023,Kochi,Kerala,1,3720817,4.7,3545939,3202427,343512,9.69,37,Male,Loan,Sneha Joshi
+CAR0306,10-02-2025,Maruti,Baleno,Hatchback,Hybrid,Manual,Blue,2023,Mysuru,Karnataka,2,781572,9.8,1409956,1121739,288217,20.44,52,Female,Finance,Ananya Desai
+CAR0307,24-04-2025,Volkswagen,Tiguan,SUV,Diesel,Manual,Blue,2024,Lucknow,Uttar Pradesh,1,3771261,11.2,3348880,2734142,614738,18.36,52,Male,Finance,Ananya Desai
+CAR0308,07-01-2025,Kia,Sonet,SUV,Diesel,Automatic,Blue,2023,Jaipur,Rajasthan,1,1134891,6.6,1059988,921763,138225,13.04,42,Female,Finance,Vikram Singh
+CAR0309,13-09-2025,Hyundai,Venue,SUV,Hybrid,Manual,Red,2025,Mysuru,Karnataka,1,995415,8.1,914786,757050,157736,17.24,45,Female,Loan,Vikram Singh
+CAR0310,19-05-2025,Volkswagen,Taigun,SUV,Diesel,Automatic,Red,2023,Indore,Madhya Pradesh,1,1722694,8.9,1569374,1390222,179152,11.42,31,Male,Loan,Aarav Sharma
+CAR0311,11-06-2025,Hyundai,Tucson,SUV,Hybrid,Automatic,Silver,2025,Lucknow,Uttar Pradesh,1,3129941,10.5,2801297,2373289,428008,15.28,58,Male,Loan,Priya Patil
+CAR0312,21-06-2025,Hyundai,Creta,SUV,CNG,Automatic,Silver,2025,Bengaluru,Karnataka,1,1494369,8.3,1370336,1149001,221335,16.15,57,Female,Loan,Aarav Sharma
+CAR0313,29-11-2025,Kia,Seltos,SUV,Diesel,Automatic,Silver,2024,Kochi,Kerala,3,1718558,4,4949447,4231115,718332,14.51,54,Female,Finance,Neha Mehta
+CAR0314,24-11-2025,Honda,Accord,Sedan,CNG,Automatic,Grey,2025,Bhopal,Madhya Pradesh,1,4473901,11.6,3954928,3531250,423678,10.71,58,Female,Cash,Priya Patil
+CAR0315,27-11-2025,Hyundai,Venue,SUV,Hybrid,Automatic,Red,2024,Mysuru,Karnataka,1,970701,4.9,923137,752146,170991,18.52,59,Female,Loan,Rahul Verma
+CAR0316,10-02-2025,Hyundai,Creta,SUV,Diesel,Manual,Red,2023,Gurgaon,Haryana,3,1436311,4.5,4115031,3607663,507368,12.33,28,Male,Loan,Karan Shah
+CAR0317,21-03-2025,Toyota,Camry,Luxury,Petrol,Automatic,Silver,2023,Ahmedabad,Gujarat,2,5003517,2.8,9726837,7918801,1808036,18.59,37,Female,Loan,Rahul Verma
+CAR0318,01-09-2025,Hyundai,Verna,Sedan,Hybrid,Automatic,Blue,2024,Mumbai,Maharashtra,1,1334018,10.6,1192612,980656,211956,17.77,30,Male,Finance,Pooja Nair
+CAR0319,04-10-2025,Volkswagen,Polo,Hatchback,Diesel,Manual,Red,2024,Kolkata,West Bengal,3,920092,5.1,2619502,2161435,458067,17.49,45,Female,Loan,Rahul Verma
+CAR0320,29-08-2025,Tata,Nexon,SUV,Petrol,Automatic,Red,2024,Mumbai,Maharashtra,2,1050461,10.5,1880325,1550714,329611,17.53,22,Female,Loan,Pooja Nair
+CAR0321,08-05-2025,Maruti,Swift,Hatchback,Diesel,Automatic,Red,2023,Bhubaneswar,Odisha,1,684123,10.8,610238,510662,99576,16.32,38,Male,Loan,Sneha Joshi
+CAR0322,05-02-2025,Skoda,Kodiaq,Luxury,Diesel,Manual,Silver,2023,Coimbatore,Tamil Nadu,3,4363247,10.1,11767677,9810448,1957229,16.63,62,Female,Finance,Neha Mehta
+CAR0323,06-04-2025,Tata,Safari,SUV,Petrol,Automatic,Silver,2023,Bengaluru,Karnataka,1,2215448,2.5,2160062,1835072,324990,15.05,50,Male,Cash,Priya Patil
+CAR0324,10-07-2025,Hyundai,Creta,SUV,Hybrid,Manual,Silver,2023,Lucknow,Uttar Pradesh,1,1462059,5.1,1387494,1226448,161046,11.61,31,Male,Loan,Rohan Kulkarni
+CAR0325,07-01-2025,Honda,Accord,Sedan,Petrol,Manual,Red,2024,Noida,Uttar Pradesh,1,4784903,4.5,4569582,3790948,778634,17.04,37,Male,Cash,Neha Mehta
+CAR0326,19-11-2025,Honda,City,Sedan,Petrol,Manual,Silver,2024,Lucknow,Uttar Pradesh,2,1337740,5.1,2539031,2087079,451952,17.8,62,Female,Cash,Ananya Desai
+CAR0327,22-05-2025,Toyota,Corolla,Sedan,Petrol,Automatic,Black,2023,Delhi,Delhi,1,2246784,5.2,2129951,1707703,422248,19.82,24,Female,Finance,Pooja Nair
+CAR0328,17-11-2025,Hyundai,Venue,SUV,Petrol,Manual,Silver,2025,Nagpur,Maharashtra,1,945232,2.9,917820,789714,128106,13.96,31,Male,Cash,Neha Mehta
+CAR0329,09-04-2025,Maruti,Brezza,SUV,Petrol,Automatic,Silver,2025,Bhubaneswar,Odisha,3,1093125,10.1,2948158,2467707,480451,16.3,30,Female,Cash,Neha Mehta
+CAR0330,15-06-2025,Volkswagen,Tiguan,SUV,Hybrid,Automatic,Blue,2025,Bhubaneswar,Odisha,3,3494452,7.7,9676138,8231207,1444931,14.93,32,Male,Finance,Rahul Verma
+CAR0331,14-07-2025,Volkswagen,Tiguan,SUV,Diesel,Manual,Blue,2024,Chennai,Tamil Nadu,2,3425583,2,6714143,5793925,920218,13.71,61,Male,Loan,Priya Patil
+CAR0332,25-05-2025,Skoda,Superb,Luxury,CNG,Automatic,Grey,2024,Bengaluru,Karnataka,2,3911400,9.7,7063988,5651452,1412536,20,29,Male,Finance,Priya Patil
+CAR0333,20-10-2025,Toyota,Corolla,Sedan,Hybrid,Automatic,Blue,2025,Noida,Uttar Pradesh,1,2095132,6.9,1950568,1546484,404084,20.72,59,Female,Cash,Ananya Desai
+CAR0334,28-08-2025,Maruti,Swift,Hatchback,Petrol,Automatic,Blue,2025,Mumbai,Maharashtra,1,737942,11.3,654555,581356,73199,11.18,48,Female,Finance,Aarav Sharma
+CAR0335,21-04-2025,MG,ZS EV,SUV,Electric,Manual,White,2025,Kolkata,West Bengal,1,2489971,10.3,2233504,1764762,468742,20.99,36,Female,Cash,Sneha Joshi
+CAR0336,24-02-2025,Skoda,Kushaq,SUV,CNG,Automatic,Grey,2025,Indore,Madhya Pradesh,3,1714561,7.6,4752763,4052008,700755,14.74,49,Male,Cash,Rahul Verma
+CAR0337,30-06-2025,Skoda,Superb,Luxury,CNG,Automatic,Silver,2024,Kolkata,West Bengal,1,3895779,7.3,3611387,3098530,512857,14.2,62,Female,Finance,Ananya Desai
+CAR0338,11-05-2025,MG,Astor,SUV,CNG,Automatic,Red,2024,Indore,Madhya Pradesh,2,1622188,9.7,2929672,2637874,291798,9.96,22,Male,Loan,Pooja Nair
+CAR0339,12-01-2025,Toyota,Corolla,Sedan,CNG,Manual,White,2023,Coimbatore,Tamil Nadu,1,2129718,4.2,2040270,1818378,221892,10.88,51,Female,Cash,Rahul Verma
+CAR0340,24-07-2025,Tata,Punch,SUV,Diesel,Manual,Grey,2024,Indore,Madhya Pradesh,1,813687,10.1,731505,579314,152191,20.81,52,Male,Loan,Pooja Nair
+CAR0341,21-06-2025,Honda,CR-V,SUV,CNG,Automatic,Red,2023,Pune,Maharashtra,3,3672671,5.8,10378968,9148187,1230781,11.86,36,Male,Finance,Rohan Kulkarni
+CAR0342,24-12-2025,Toyota,RAV4,SUV,Diesel,Manual,White,2025,Kolkata,West Bengal,1,3690144,7.6,3409693,2804432,605261,17.75,47,Female,Finance,Pooja Nair
+CAR0343,12-02-2025,Skoda,Slavia,Sedan,Hybrid,Manual,Blue,2024,Mysuru,Karnataka,2,1449548,5.9,2728049,2174759,553290,20.28,38,Male,Loan,Karan Shah
+CAR0344,11-04-2025,Kia,Sonet,SUV,Diesel,Manual,White,2024,Gurgaon,Haryana,2,1110436,6.9,2067632,1788072,279560,13.52,49,Female,Finance,Pooja Nair
+CAR0345,02-12-2025,Honda,Civic,Sedan,Petrol,Automatic,Black,2024,Surat,Gujarat,2,2152574,3.9,4137247,3412353,724894,17.52,61,Female,Finance,Rahul Verma
+CAR0346,13-02-2025,Volkswagen,Virtus,Sedan,Petrol,Manual,Black,2025,Mysuru,Karnataka,1,1544486,3.6,1488885,1302333,186552,12.53,31,Female,Cash,Ananya Desai
+CAR0347,15-04-2025,Honda,CR-V,SUV,CNG,Automatic,Blue,2025,Jaipur,Rajasthan,2,3232739,4.1,6200393,5269966,930427,15.01,31,Male,Loan,Pooja Nair
+CAR0348,19-05-2025,Skoda,Slavia,Sedan,Petrol,Automatic,Grey,2023,Chennai,Tamil Nadu,1,1394426,4,1338649,1165359,173290,12.95,26,Female,Finance,Vikram Singh
+CAR0349,14-07-2025,Mahindra,Thar,SUV,Petrol,Automatic,Red,2025,Mumbai,Maharashtra,1,1694057,8.5,1550062,1255631,294431,18.99,56,Male,Cash,Sneha Joshi
+CAR0350,20-06-2025,Skoda,Superb,Luxury,Hybrid,Automatic,Grey,2023,Bhubaneswar,Odisha,3,3509065,4.5,10053471,8533627,1519844,15.12,23,Female,Finance,Ananya Desai
+CAR0351,18-07-2025,Mahindra,Scorpio,SUV,Petrol,Automatic,Black,2023,Mysuru,Karnataka,2,1928281,2.6,3756291,3055736,700555,18.65,43,Female,Finance,Rahul Verma
+CAR0352,04-05-2025,Honda,Accord,Sedan,Diesel,Automatic,Silver,2025,Kolkata,West Bengal,3,4580963,8.3,12602229,10202332,2399897,19.04,43,Female,Finance,Rahul Verma
+CAR0353,19-12-2025,Maruti,Baleno,Hatchback,Diesel,Automatic,Black,2025,Indore,Madhya Pradesh,2,823558,4,1581231,1261750,319481,20.2,58,Male,Loan,Priya Patil
+CAR0354,13-06-2025,Skoda,Slavia,Sedan,Hybrid,Automatic,Silver,2024,Noida,Uttar Pradesh,1,1581485,3.5,1526133,1196233,329900,21.62,62,Female,Cash,Sneha Joshi
+CAR0355,18-10-2025,Honda,City,Sedan,Diesel,Manual,Black,2025,Noida,Uttar Pradesh,1,1354589,8.1,1244867,1014183,230684,18.53,23,Female,Cash,Neha Mehta
+CAR0356,09-04-2025,Hyundai,Tucson,SUV,Diesel,Manual,Red,2023,Kochi,Kerala,1,3063388,6.9,2852014,2275555,576459,20.21,39,Female,Cash,Sneha Joshi
+CAR0357,23-08-2025,Maruti,Swift,Hatchback,Diesel,Automatic,Red,2023,Noida,Uttar Pradesh,2,762293,6.9,1419390,1167074,252316,17.78,60,Female,Finance,Ananya Desai
+CAR0358,06-05-2025,Kia,Seltos,SUV,Hybrid,Manual,Blue,2024,Kolkata,West Bengal,1,1587612,10.3,1424088,1118641,305447,21.45,55,Male,Cash,Vikram Singh
+CAR0359,28-01-2025,Volkswagen,Polo,Hatchback,Diesel,Automatic,Grey,2024,Coimbatore,Tamil Nadu,1,894434,6.2,838979,721277,117702,14.03,27,Male,Cash,Pooja Nair
+CAR0360,31-12-2025,Skoda,Kushaq,SUV,Diesel,Automatic,White,2024,Ahmedabad,Gujarat,2,1554806,2.2,3041201,2551502,489699,16.1,42,Male,Finance,Priya Patil
+CAR0361,19-09-2025,Honda,Civic,Sedan,Diesel,Automatic,Blue,2024,Jaipur,Rajasthan,3,2151756,7.2,5990489,4971695,1018794,17.01,24,Male,Loan,Pooja Nair
+CAR0362,17-08-2025,Hyundai,Verna,Sedan,CNG,Manual,White,2023,Gurgaon,Haryana,1,1355985,2.5,1322085,1084173,237912,18,34,Male,Finance,Vikram Singh
+CAR0363,02-05-2025,Toyota,Fortuner,SUV,Diesel,Automatic,Red,2024,Lucknow,Uttar Pradesh,2,4229233,2.1,8280838,7409291,871547,10.52,50,Male,Finance,Pooja Nair
+CAR0364,26-01-2025,Toyota,Corolla,Sedan,Diesel,Manual,White,2025,Bhubaneswar,Odisha,1,2242158,7.6,2071754,1838232,233522,11.27,44,Male,Cash,Aarav Sharma
+CAR0365,11-12-2025,MG,ZS EV,SUV,Electric,Automatic,Blue,2025,Hyderabad,Telangana,1,2226828,6.2,2088765,1677638,411127,19.68,60,Male,Loan,Pooja Nair
+CAR0366,07-08-2025,Mahindra,Thar,SUV,Petrol,Automatic,Red,2023,Nagpur,Maharashtra,1,1554642,11,1383631,1226775,156856,11.34,29,Female,Loan,Karan Shah
+CAR0367,28-09-2025,Kia,Sonet,SUV,Petrol,Automatic,Grey,2025,Bengaluru,Karnataka,2,1022240,7.7,1887055,1712154,174901,9.27,60,Female,Loan,Pooja Nair
+CAR0368,16-10-2025,Mahindra,Scorpio,SUV,Hybrid,Automatic,Red,2023,Kolkata,West Bengal,2,2158408,5.5,4079391,3250715,828676,20.31,61,Male,Finance,Vikram Singh
+CAR0369,17-04-2025,Maruti,Swift,Hatchback,Hybrid,Automatic,White,2024,Delhi,Delhi,1,715955,10,644360,564376,79984,12.41,44,Male,Cash,Sneha Joshi
+CAR0370,28-02-2025,Tata,Punch,SUV,CNG,Automatic,Red,2025,Nagpur,Maharashtra,1,822839,7.5,761126,669573,91553,12.03,58,Male,Cash,Sneha Joshi
+CAR0371,18-11-2025,Mahindra,Scorpio,SUV,Hybrid,Automatic,Red,2024,Lucknow,Uttar Pradesh,2,2095121,8.5,3834071,3230567,603504,15.74,25,Female,Finance,Ananya Desai
+CAR0372,01-07-2025,Skoda,Slavia,Sedan,Petrol,Manual,Silver,2023,Bengaluru,Karnataka,2,1544518,10,2780132,2489452,290680,10.46,43,Female,Finance,Karan Shah
+CAR0373,11-06-2025,Hyundai,Tucson,SUV,Petrol,Automatic,Red,2023,Noida,Uttar Pradesh,2,2722216,9.8,4910878,4027296,883582,17.99,53,Male,Loan,Neha Mehta
+CAR0374,14-04-2025,Tata,Harrier,SUV,Petrol,Automatic,Blue,2023,Kolkata,West Bengal,1,1801204,5.7,1698535,1333114,365421,21.51,52,Male,Cash,Ananya Desai
+CAR0375,22-09-2025,Volkswagen,Tiguan,SUV,Diesel,Manual,Grey,2023,Hyderabad,Telangana,1,3650910,3,3541383,3214498,326885,9.23,51,Female,Finance,Karan Shah
+CAR0376,28-08-2025,Honda,Civic,Sedan,Petrol,Manual,Blue,2025,Coimbatore,Tamil Nadu,1,2265842,7.9,2086840,1651358,435482,20.87,41,Male,Finance,Vikram Singh
+CAR0377,10-12-2025,Maruti,Brezza,SUV,Petrol,Automatic,Black,2023,Bengaluru,Karnataka,1,1014143,7.3,940111,827732,112379,11.95,39,Male,Cash,Pooja Nair
+CAR0378,27-12-2025,Skoda,Slavia,Sedan,CNG,Manual,Black,2023,Bengaluru,Karnataka,2,1464076,5.2,2775888,2216276,559612,20.16,41,Female,Finance,Neha Mehta
+CAR0379,14-02-2025,Toyota,Corolla,Sedan,Hybrid,Automatic,Black,2025,Mumbai,Maharashtra,2,2341959,2.5,4566820,3789858,776962,17.01,60,Female,Finance,Ananya Desai
+CAR0380,27-08-2025,Tata,Punch,SUV,Diesel,Manual,Grey,2024,Bengaluru,Karnataka,3,885143,10.1,2387231,1886416,500815,20.98,28,Female,Loan,Neha Mehta
+CAR0381,20-07-2025,Volkswagen,Taigun,SUV,Diesel,Automatic,Silver,2024,Mysuru,Karnataka,1,1692441,8.2,1553661,1396232,157429,10.13,53,Male,Cash,Neha Mehta
+CAR0382,22-10-2025,Honda,CR-V,SUV,Diesel,Manual,Red,2025,Lucknow,Uttar Pradesh,2,3693629,4.8,7032670,5804203,1228467,17.47,28,Female,Finance,Priya Patil
+CAR0383,04-09-2025,Tata,Safari,SUV,Hybrid,Manual,Silver,2023,Ahmedabad,Gujarat,2,2366762,8.2,4345375,3698928,646447,14.88,59,Female,Loan,Pooja Nair
+CAR0384,07-09-2025,Mahindra,XUV700,SUV,Petrol,Automatic,Silver,2025,Noida,Uttar Pradesh,3,2259701,9.4,6141867,5359075,782792,12.75,28,Female,Cash,Vikram Singh
+CAR0385,17-06-2025,Kia,Seltos,SUV,Hybrid,Manual,White,2023,Bhopal,Madhya Pradesh,1,1647490,8,1515691,1343785,171906,11.34,30,Male,Cash,Rahul Verma
+CAR0386,12-06-2025,Volkswagen,Tiguan,SUV,CNG,Automatic,Red,2025,Ahmedabad,Gujarat,2,3543642,4,6803793,5909755,894038,13.14,44,Male,Finance,Aarav Sharma
+CAR0387,01-01-2025,MG,Gloster,Luxury,CNG,Manual,Silver,2023,Gurgaon,Haryana,1,3905940,11,3476287,3148914,327373,9.42,37,Female,Finance,Pooja Nair
+CAR0388,01-09-2025,Kia,Carens,MUV,Diesel,Manual,Blue,2024,Ahmedabad,Gujarat,2,1471576,7.5,2722416,2357948,364468,13.39,45,Female,Cash,Vikram Singh
+CAR0389,03-12-2025,Hyundai,Verna,Sedan,Hybrid,Manual,White,2023,Mumbai,Maharashtra,1,1330865,3.4,1285616,1150672,134944,10.5,48,Female,Finance,Pooja Nair
+CAR0390,26-04-2025,Kia,Sonet,SUV,Diesel,Automatic,Blue,2023,Jaipur,Rajasthan,2,1086646,10.2,1951616,1619866,331750,17,58,Female,Finance,Sneha Joshi
+CAR0391,05-09-2025,Skoda,Kodiaq,Luxury,CNG,Manual,Blue,2024,Surat,Gujarat,2,4251309,2.3,8307058,6520396,1786662,21.51,27,Male,Finance,Karan Shah
+CAR0392,19-11-2025,Tata,Safari,SUV,Petrol,Automatic,Blue,2023,Kolkata,West Bengal,1,2408969,8.1,2213843,1797375,416468,18.81,43,Male,Loan,Neha Mehta
+CAR0393,31-05-2025,Skoda,Superb,Luxury,CNG,Manual,White,2025,Indore,Madhya Pradesh,3,3697561,5.5,10482585,9508846,973739,9.29,60,Female,Finance,Pooja Nair
+CAR0394,16-11-2025,Tata,Nexon,SUV,Petrol,Automatic,Red,2023,Lucknow,Uttar Pradesh,2,947053,2.5,1846753,1678232,168521,9.13,30,Male,Loan,Vikram Singh
+CAR0395,30-10-2025,Hyundai,Venue,SUV,Diesel,Automatic,Silver,2023,Chennai,Tamil Nadu,1,922272,3.1,893682,717358,176324,19.73,38,Male,Loan,Rahul Verma
+CAR0396,11-09-2025,Skoda,Slavia,Sedan,Hybrid,Automatic,Black,2025,Hyderabad,Telangana,1,1612163,8,1483190,1315329,167861,11.32,50,Male,Cash,Pooja Nair
+CAR0397,01-09-2025,Mahindra,Thar,SUV,Diesel,Automatic,Grey,2025,Chennai,Tamil Nadu,1,1485446,6.6,1387407,1168072,219335,15.81,46,Female,Loan,Rahul Verma
+CAR0398,29-09-2025,Skoda,Superb,Luxury,Petrol,Manual,Blue,2025,Mumbai,Maharashtra,1,4059751,6.5,3795867,3295587,500280,13.18,44,Female,Finance,Vikram Singh
+CAR0399,12-12-2025,Mahindra,Scorpio,SUV,Diesel,Manual,Blue,2024,Chennai,Tamil Nadu,1,1921710,7.8,1771817,1488227,283590,16.01,33,Female,Finance,Aarav Sharma
+CAR0400,23-04-2025,Toyota,Camry,Luxury,CNG,Automatic,Black,2023,Mumbai,Maharashtra,2,4491033,3,8712604,7300922,1411682,16.2,23,Male,Cash,Pooja Nair
+CAR0401,28-11-2025,Maruti,Swift,Hatchback,Diesel,Manual,Grey,2023,Delhi,Delhi,1,761062,3.3,735947,636838,99109,13.47,38,Female,Loan,Priya Patil
+CAR0402,24-03-2025,Volkswagen,Tiguan,SUV,Petrol,Automatic,White,2024,Surat,Gujarat,3,3725899,9.7,10093460,8297253,1796207,17.8,46,Female,Cash,Vikram Singh
+CAR0403,02-04-2025,Tata,Harrier,SUV,Hybrid,Manual,Black,2025,Jaipur,Rajasthan,1,1897483,11.3,1683067,1446326,236741,14.07,49,Male,Finance,Priya Patil
+CAR0404,17-08-2025,Volkswagen,Tiguan,SUV,Petrol,Automatic,Black,2025,Delhi,Delhi,1,3260835,7.7,3009751,2445656,564095,18.74,62,Male,Cash,Rohan Kulkarni
+CAR0405,09-09-2025,Tata,Harrier,SUV,Hybrid,Automatic,Red,2025,Hyderabad,Telangana,2,1922691,7.2,3568514,3219472,349042,9.78,26,Male,Cash,Rohan Kulkarni
+CAR0406,25-07-2025,Volkswagen,Virtus,Sedan,Petrol,Manual,Silver,2025,Indore,Madhya Pradesh,2,1604410,5.6,3029126,2631216,397910,13.14,43,Male,Loan,Vikram Singh
+CAR0407,19-07-2025,Maruti,Baleno,Hatchback,Petrol,Automatic,Red,2023,Bhubaneswar,Odisha,1,859842,8.6,785896,643533,142363,18.11,62,Female,Finance,Sneha Joshi
+CAR0408,02-02-2025,Hyundai,Creta,SUV,CNG,Automatic,Blue,2024,Bengaluru,Karnataka,1,1552737,7.9,1430071,1206408,223663,15.64,23,Male,Loan,Aarav Sharma
+CAR0409,14-12-2025,Mahindra,Thar,SUV,Diesel,Manual,White,2023,Ahmedabad,Gujarat,1,1526190,8.5,1396464,1184209,212255,15.2,31,Female,Finance,Aarav Sharma
+CAR0410,07-06-2025,Volkswagen,Virtus,Sedan,Petrol,Automatic,Blue,2023,Mysuru,Karnataka,3,1535709,2.1,4510377,3889054,621323,13.78,59,Male,Cash,Priya Patil
+CAR0411,14-12-2025,Volkswagen,Taigun,SUV,Hybrid,Automatic,White,2025,Nagpur,Maharashtra,1,1581110,10.1,1421418,1290200,131218,9.23,58,Male,Loan,Sneha Joshi
+CAR0412,23-12-2025,Toyota,Corolla,Sedan,CNG,Manual,Red,2023,Hyderabad,Telangana,1,2066502,3.4,1996241,1664805,331436,16.6,59,Male,Cash,Priya Patil
+CAR0413,15-02-2025,MG,Gloster,Luxury,CNG,Automatic,Grey,2024,Noida,Uttar Pradesh,1,4455109,2.8,4330366,3381752,948614,21.91,30,Male,Cash,Vikram Singh
+CAR0414,03-04-2025,Skoda,Superb,Luxury,Hybrid,Manual,Grey,2024,Surat,Gujarat,1,4066358,8.1,3736983,2933123,803860,21.51,44,Female,Cash,Karan Shah
+CAR0415,04-10-2025,Maruti,Baleno,Hatchback,Diesel,Automatic,Grey,2025,Delhi,Delhi,2,861029,8.2,1580849,1410362,170487,10.78,35,Female,Cash,Sneha Joshi
+CAR0416,27-11-2025,Honda,City,Sedan,CNG,Automatic,Black,2024,Lucknow,Uttar Pradesh,2,1232675,8.7,2250865,1768291,482574,21.44,38,Female,Finance,Neha Mehta
+CAR0417,01-03-2025,Toyota,Camry,Luxury,Petrol,Manual,Grey,2024,Pune,Maharashtra,2,4551082,9.9,8201050,6913961,1287089,15.69,59,Female,Loan,Sneha Joshi
+CAR0418,13-04-2025,Mahindra,XUV700,SUV,Hybrid,Manual,White,2024,Delhi,Delhi,1,2104179,4.4,2011595,1676941,334654,16.64,59,Female,Cash,Rohan Kulkarni
+CAR0419,10-04-2025,Hyundai,Verna,Sedan,CNG,Automatic,Black,2024,Bhopal,Madhya Pradesh,2,1233037,5.7,2325508,1952278,373230,16.05,30,Male,Finance,Pooja Nair
+CAR0420,25-06-2025,Toyota,RAV4,SUV,Diesel,Automatic,Blue,2023,Gurgaon,Haryana,1,4013804,6.6,3748893,3007573,741320,19.77,62,Male,Finance,Karan Shah
+CAR0421,25-08-2025,Maruti,Swift,Hatchback,CNG,Manual,Grey,2024,Surat,Gujarat,2,718757,12,1265012,1083996,181016,14.31,37,Male,Loan,Rohan Kulkarni
+CAR0422,23-01-2025,MG,Astor,SUV,Petrol,Automatic,Grey,2025,Indore,Madhya Pradesh,1,1812541,11,1613161,1345877,267284,16.57,24,Female,Finance,Rohan Kulkarni
+CAR0423,28-07-2025,Volkswagen,Virtus,Sedan,Diesel,Manual,Silver,2024,Jaipur,Rajasthan,2,1437723,7.6,2656912,2076682,580230,21.84,37,Male,Cash,Neha Mehta
+CAR0424,12-03-2025,Tata,Harrier,SUV,Hybrid,Manual,Silver,2025,Jaipur,Rajasthan,2,1975175,2.2,3863442,3241927,621515,16.09,51,Male,Finance,Priya Patil
+CAR0425,10-11-2025,Kia,Carens,MUV,Diesel,Manual,Blue,2024,Kolkata,West Bengal,1,1451182,9.5,1313320,1143570,169750,12.93,25,Female,Cash,Priya Patil
+CAR0426,27-12-2025,Kia,Carens,MUV,Petrol,Manual,Black,2024,Jaipur,Rajasthan,2,1389810,5.7,2621182,2265389,355793,13.57,37,Male,Finance,Neha Mehta
+CAR0427,22-05-2025,MG,Astor,SUV,Petrol,Manual,Silver,2024,Mysuru,Karnataka,1,1659938,4.7,1581921,1373787,208134,13.16,50,Female,Finance,Karan Shah
+CAR0428,08-07-2025,Honda,Accord,Sedan,Petrol,Manual,Red,2023,Bhubaneswar,Odisha,3,4734273,11,12640509,10602318,2038191,16.12,27,Female,Cash,Vikram Singh
+CAR0429,15-04-2025,Honda,Civic,Sedan,Petrol,Automatic,Red,2025,Noida,Uttar Pradesh,1,2063433,3.5,1991213,1592104,399109,20.04,56,Male,Loan,Ananya Desai
+CAR0430,24-09-2025,Kia,EV6,Luxury,Electric,Automatic,Red,2025,Mumbai,Maharashtra,1,5891548,2.2,5761934,5095040,666894,11.57,43,Female,Loan,Pooja Nair
+CAR0431,14-05-2025,Skoda,Superb,Luxury,Diesel,Automatic,Silver,2024,Jaipur,Rajasthan,1,3840889,11,3418391,2802549,615842,18.02,25,Male,Loan,Vikram Singh
+CAR0432,29-12-2025,Volkswagen,Taigun,SUV,Diesel,Manual,Black,2023,Bhopal,Madhya Pradesh,1,1654224,4.9,1573167,1426102,147065,9.35,24,Female,Finance,Rahul Verma
+CAR0433,26-06-2025,Volkswagen,Tiguan,SUV,Diesel,Automatic,Red,2025,Kochi,Kerala,1,3334887,9.1,3031412,2626785,404627,13.35,32,Female,Cash,Aarav Sharma
+CAR0434,07-10-2025,Kia,EV6,Luxury,Electric,Automatic,Grey,2025,Gurgaon,Haryana,2,6624389,3.6,12771822,11572797,1199025,9.39,40,Female,Loan,Pooja Nair
+CAR0435,14-12-2025,Hyundai,Tucson,SUV,Petrol,Automatic,White,2024,Hyderabad,Telangana,3,2720114,6.8,7605439,5971871,1633568,21.48,61,Male,Loan,Ananya Desai
+CAR0436,23-05-2025,Honda,CR-V,SUV,Diesel,Manual,White,2025,Pune,Maharashtra,2,3579135,7.8,6599925,5338539,1261386,19.11,50,Male,Finance,Rohan Kulkarni
+CAR0437,04-07-2025,Maruti,Grand Vitara,SUV,Hybrid,Manual,Grey,2024,Hyderabad,Telangana,2,1525219,11.4,2702688,2427279,275409,10.19,45,Female,Loan,Aarav Sharma
+CAR0438,16-08-2025,Tata,Punch,SUV,Hybrid,Automatic,Silver,2023,Kochi,Kerala,1,914943,10.7,817044,646599,170445,20.86,49,Female,Cash,Pooja Nair
+CAR0439,21-06-2025,MG,Hector,SUV,Petrol,Automatic,White,2023,Gurgaon,Haryana,1,1937034,11.9,1706527,1447628,258899,15.17,48,Female,Loan,Rahul Verma
+CAR0440,09-09-2025,Skoda,Superb,Luxury,Petrol,Automatic,Blue,2024,Indore,Madhya Pradesh,1,3617149,10.3,3244583,2652869,591714,18.24,53,Female,Cash,Aarav Sharma
+CAR0441,01-12-2025,Toyota,Corolla,Sedan,CNG,Automatic,Black,2024,Chennai,Tamil Nadu,1,2360521,10.3,2117387,1781634,335753,15.86,37,Male,Cash,Vikram Singh
+CAR0442,13-05-2025,Volkswagen,Virtus,Sedan,Hybrid,Manual,Silver,2025,Bhopal,Madhya Pradesh,3,1466822,6.8,4101234,3431457,669777,16.33,58,Male,Loan,Rahul Verma
+CAR0443,28-01-2025,MG,Hector,SUV,CNG,Automatic,Red,2025,Gurgaon,Haryana,1,1987534,8.9,1810643,1496424,314219,17.35,44,Male,Loan,Vikram Singh
+CAR0444,27-03-2025,Skoda,Slavia,Sedan,CNG,Automatic,Grey,2024,Kolkata,West Bengal,1,1563946,3.8,1504516,1192007,312509,20.77,39,Female,Cash,Karan Shah
+CAR0445,30-07-2025,MG,ZS EV,SUV,Electric,Automatic,Black,2023,Gurgaon,Haryana,1,2260589,4.8,2152081,1896511,255570,11.88,35,Male,Finance,Sneha Joshi
+CAR0446,09-01-2025,Maruti,Swift,Hatchback,Hybrid,Automatic,Silver,2025,Surat,Gujarat,2,767927,3.2,1486707,1184995,301712,20.29,45,Male,Loan,Pooja Nair
+CAR0447,07-03-2025,Skoda,Kodiaq,Luxury,Diesel,Manual,Silver,2023,Noida,Uttar Pradesh,3,4068748,9.4,11058857,8796409,2262448,20.46,35,Male,Cash,Rohan Kulkarni
+CAR0448,04-12-2025,Honda,Civic,Sedan,Petrol,Automatic,White,2024,Mumbai,Maharashtra,2,2290582,2.4,4471216,3550218,920998,20.6,24,Male,Loan,Aarav Sharma
+CAR0449,15-01-2025,Honda,Civic,Sedan,Petrol,Manual,Grey,2024,Bhopal,Madhya Pradesh,1,2230836,4,2141603,1857151,284452,13.28,59,Female,Loan,Rahul Verma
+CAR0450,28-09-2025,Skoda,Kushaq,SUV,Diesel,Manual,Silver,2023,Kolkata,West Bengal,2,1489494,10.2,2675131,2352033,323098,12.08,56,Male,Finance,Priya Patil
+CAR0451,03-04-2025,Maruti,Grand Vitara,SUV,CNG,Automatic,Red,2023,Kochi,Kerala,3,1521451,6.4,4272234,3864266,407968,9.55,54,Male,Loan,Priya Patil
+CAR0452,28-05-2025,Mahindra,Thar,SUV,Petrol,Manual,Silver,2024,Jaipur,Rajasthan,1,1605050,7,1492696,1234404,258292,17.3,29,Female,Loan,Neha Mehta
+CAR0453,07-04-2025,MG,ZS EV,SUV,Electric,Manual,Red,2025,Jaipur,Rajasthan,1,2420704,4.9,2302090,2051617,250473,10.88,45,Male,Cash,Neha Mehta
+CAR0454,25-07-2025,Honda,Accord,Sedan,Petrol,Manual,White,2024,Jaipur,Rajasthan,2,4614155,2.9,8960689,7156345,1804344,20.14,34,Female,Cash,Pooja Nair
+CAR0455,25-10-2025,Kia,Seltos,SUV,CNG,Automatic,Silver,2024,Mysuru,Karnataka,2,1657651,4.8,3156168,2754559,401609,12.72,60,Female,Loan,Karan Shah
+CAR0456,10-03-2025,Tata,Harrier,SUV,Petrol,Manual,Grey,2023,Jaipur,Rajasthan,1,1785146,6.9,1661971,1346208,315763,19,26,Female,Finance,Aarav Sharma
+CAR0457,09-02-2025,Hyundai,Tucson,SUV,Hybrid,Automatic,Black,2024,Bhopal,Madhya Pradesh,3,2819708,5,8036168,6919303,1116865,13.9,53,Female,Finance,Vikram Singh
+CAR0458,02-03-2025,Skoda,Kodiaq,Luxury,Hybrid,Automatic,Silver,2024,Bhubaneswar,Odisha,2,3875875,9.6,7007582,6368438,639144,9.12,50,Female,Cash,Aarav Sharma
+CAR0459,26-02-2025,Hyundai,Venue,SUV,Hybrid,Automatic,Red,2025,Noida,Uttar Pradesh,2,988909,5.1,1876949,1558957,317992,16.94,32,Male,Loan,Vikram Singh
+CAR0460,15-01-2025,Volkswagen,Polo,Hatchback,Petrol,Manual,Silver,2024,Bhopal,Madhya Pradesh,3,878798,11.8,2325300,1910612,414688,17.83,59,Male,Finance,Ananya Desai
+CAR0461,06-05-2025,Kia,Seltos,SUV,Diesel,Manual,Grey,2024,Surat,Gujarat,1,1725938,6.1,1620656,1276005,344651,21.27,59,Male,Finance,Priya Patil
+CAR0462,05-08-2025,Tata,Nexon,SUV,Hybrid,Automatic,White,2025,Hyderabad,Telangana,1,923154,5.3,874227,734279,139948,16.01,52,Male,Loan,Rohan Kulkarni
+CAR0463,16-04-2025,MG,Gloster,Luxury,CNG,Automatic,Blue,2025,Hyderabad,Telangana,2,3929672,6.9,7317049,6364459,952590,13.02,43,Male,Finance,Vikram Singh
+CAR0464,02-10-2025,Mahindra,XUV300,SUV,Diesel,Automatic,Silver,2023,Bengaluru,Karnataka,2,1226005,11.7,2165125,1709998,455127,21.02,41,Female,Cash,Pooja Nair
+CAR0465,07-08-2025,Honda,Civic,Sedan,Diesel,Automatic,White,2025,Indore,Madhya Pradesh,1,2120224,7.7,1956967,1661540,295427,15.1,41,Female,Loan,Karan Shah
+CAR0466,08-10-2025,Mahindra,XUV700,SUV,Diesel,Manual,Grey,2025,Surat,Gujarat,2,2112445,7.2,3920698,3400432,520266,13.27,55,Male,Finance,Neha Mehta
+CAR0467,11-08-2025,Maruti,Grand Vitara,SUV,Petrol,Manual,Silver,2024,Chennai,Tamil Nadu,3,1507853,8.1,4157151,3658233,498918,12,31,Male,Cash,Vikram Singh
+CAR0468,27-05-2025,Kia,EV6,Luxury,Electric,Manual,Silver,2025,Hyderabad,Telangana,1,6332856,10.5,5667906,4617652,1050254,18.53,60,Male,Loan,Sneha Joshi
+CAR0469,14-10-2025,Honda,City,Sedan,Hybrid,Automatic,Grey,2023,Bengaluru,Karnataka,1,1247082,10.3,1118633,940033,178600,15.97,34,Male,Loan,Rahul Verma
+CAR0470,06-09-2025,Toyota,RAV4,SUV,Petrol,Manual,White,2024,Chennai,Tamil Nadu,3,3830829,8.4,10527118,8268948,2258170,21.45,60,Female,Cash,Rohan Kulkarni
+CAR0471,14-09-2025,Mahindra,Thar,SUV,Petrol,Automatic,Red,2023,Ahmedabad,Gujarat,3,1687744,4.4,4840450,4134841,705609,14.58,37,Male,Loan,Ananya Desai
+CAR0472,21-05-2025,MG,Gloster,Luxury,Hybrid,Automatic,Silver,2025,Mysuru,Karnataka,2,4010502,3.1,7772353,6278772,1493581,19.22,25,Female,Finance,Ananya Desai
+CAR0473,16-03-2025,Honda,CR-V,SUV,CNG,Automatic,Grey,2024,Bhubaneswar,Odisha,2,3485918,4.5,6658103,5433714,1224389,18.39,41,Male,Finance,Pooja Nair
+CAR0474,05-07-2025,Toyota,Camry,Luxury,Petrol,Manual,Red,2024,Mysuru,Karnataka,1,4840495,5.1,4593630,4155411,438219,9.54,22,Female,Loan,Vikram Singh
+CAR0475,12-06-2025,Honda,City,Sedan,Hybrid,Manual,Silver,2023,Coimbatore,Tamil Nadu,1,1374759,3.6,1325268,1109316,215952,16.29,53,Female,Finance,Rohan Kulkarni
+CAR0476,05-11-2025,Mahindra,XUV300,SUV,CNG,Automatic,Grey,2023,Delhi,Delhi,1,1238109,7.1,1150203,949770,200433,17.43,25,Male,Finance,Neha Mehta
+CAR0477,22-03-2025,Hyundai,Creta,SUV,Diesel,Manual,Blue,2025,Ahmedabad,Gujarat,1,1530791,5.1,1452721,1148652,304069,20.93,48,Female,Loan,Neha Mehta
+CAR0478,13-02-2025,Hyundai,Venue,SUV,Hybrid,Automatic,Black,2024,Noida,Uttar Pradesh,3,1014883,5.3,2883283,2354586,528697,18.34,46,Male,Cash,Aarav Sharma
+CAR0479,25-07-2025,Skoda,Kushaq,SUV,Hybrid,Automatic,Black,2023,Nagpur,Maharashtra,2,1522756,9,2771416,2222505,548911,19.81,45,Male,Finance,Priya Patil
+CAR0480,17-05-2025,Toyota,Fortuner,SUV,CNG,Automatic,Red,2023,Jaipur,Rajasthan,3,4196068,4.2,12059499,9724887,2334612,19.36,49,Male,Finance,Sneha Joshi
+CAR0481,15-05-2025,Tata,Harrier,SUV,Diesel,Automatic,Black,2024,Surat,Gujarat,1,1872191,3.5,1806664,1477354,329310,18.23,59,Female,Cash,Aarav Sharma
+CAR0482,05-08-2025,Volkswagen,Taigun,SUV,CNG,Manual,White,2025,Hyderabad,Telangana,3,1573774,4.1,4527748,3757372,770376,17.01,25,Male,Loan,Sneha Joshi
+CAR0483,24-01-2025,Volkswagen,Tiguan,SUV,Petrol,Automatic,Blue,2025,Bhopal,Madhya Pradesh,3,3761638,8,10382121,9107938,1274183,12.27,46,Female,Loan,Ananya Desai
+CAR0484,28-08-2025,Hyundai,Creta,SUV,Diesel,Manual,Silver,2025,Indore,Madhya Pradesh,1,1442470,7,1341497,1208612,132885,9.91,55,Female,Cash,Vikram Singh
+CAR0485,04-07-2025,Honda,CR-V,SUV,Hybrid,Automatic,Silver,2025,Pune,Maharashtra,1,3499558,11.7,3090110,2523168,566942,18.35,38,Female,Loan,Rahul Verma
+CAR0486,28-01-2025,Mahindra,XUV300,SUV,Diesel,Manual,White,2023,Gurgaon,Haryana,2,1267782,8.6,2317505,2048138,269367,11.62,33,Male,Loan,Vikram Singh
+CAR0487,02-07-2025,Hyundai,Tucson,SUV,Hybrid,Automatic,Red,2023,Surat,Gujarat,1,3129774,11.3,2776110,2180087,596023,21.47,31,Male,Loan,Priya Patil
+CAR0488,06-12-2025,Maruti,Brezza,SUV,Diesel,Manual,Blue,2025,Noida,Uttar Pradesh,1,1091989,10.2,980606,836675,143931,14.68,33,Female,Cash,Sneha Joshi
+CAR0489,11-07-2025,Volkswagen,Virtus,Sedan,Petrol,Automatic,Black,2023,Hyderabad,Telangana,1,1448228,11.8,1277337,1016580,260757,20.41,27,Female,Finance,Neha Mehta
+CAR0490,20-08-2025,Volkswagen,Tiguan,SUV,CNG,Manual,Black,2023,Bhopal,Madhya Pradesh,3,3223251,11.7,8538392,7388292,1150100,13.47,40,Female,Cash,Priya Patil
+CAR0491,24-07-2025,Skoda,Superb,Luxury,Petrol,Manual,Black,2023,Nagpur,Maharashtra,2,3651140,4.4,6980980,6144757,836223,11.98,46,Female,Loan,Rahul Verma
+CAR0492,05-11-2025,Honda,CR-V,SUV,Diesel,Automatic,Grey,2023,Lucknow,Uttar Pradesh,2,3632098,11.2,6450606,5789325,661281,10.25,45,Male,Loan,Neha Mehta
+CAR0493,08-07-2025,Kia,EV6,Luxury,Electric,Manual,Red,2025,Chennai,Tamil Nadu,2,6299538,2.9,12233703,10214282,2019421,16.51,49,Male,Cash,Karan Shah
+CAR0494,19-11-2025,Mahindra,XUV300,SUV,Petrol,Automatic,Red,2024,Mysuru,Karnataka,3,1235757,3.6,3573809,3017695,556114,15.56,27,Female,Loan,Rahul Verma
+CAR0495,24-01-2025,Hyundai,Venue,SUV,Petrol,Automatic,Red,2023,Mysuru,Karnataka,2,988437,7.7,1824655,1553930,270725,14.84,51,Female,Loan,Vikram Singh
+CAR0496,04-04-2025,MG,Hector,SUV,Hybrid,Manual,White,2024,Kolkata,West Bengal,1,1876459,8.6,1715084,1377799,337285,19.67,41,Female,Finance,Neha Mehta
+CAR0497,13-05-2025,Volkswagen,Tiguan,SUV,Petrol,Automatic,Blue,2023,Hyderabad,Telangana,1,3338198,2.8,3244728,2945188,299540,9.23,22,Female,Cash,Aarav Sharma
+CAR0498,07-09-2025,Hyundai,Tucson,SUV,CNG,Automatic,Grey,2025,Jaipur,Rajasthan,3,2855963,8.6,7831051,6865890,965161,12.32,47,Female,Cash,Rahul Verma
+CAR0499,14-01-2025,Hyundai,Creta,SUV,Diesel,Automatic,Grey,2023,Bengaluru,Karnataka,1,1575832,9,1434007,1153614,280393,19.55,37,Female,Finance,Karan Shah
+CAR0500,20-03-2025,Maruti,Swift,Hatchback,Hybrid,Automatic,Red,2023,Coimbatore,Tamil Nadu,2,679469,6.2,1274684,1013552,261132,20.49,50,Male,Cash,Vikram Singh
